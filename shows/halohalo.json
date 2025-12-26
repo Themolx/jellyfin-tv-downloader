@@ -1,0 +1,836 @@
+{
+  "showName": "Halohalo",
+  "showNameCz": "Halohalo",
+  "year": "",
+  "description": "Scraped from http://halohalo.sifee.biz",
+  "targetFolder": "halohalo",
+  "source": "nahnoji.cz",
+  "originalSource": "http://halohalo.sifee.biz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Angláni přicházejí",
+          "url": "http://nahnoji.cz/video?id=4154",
+          "videoId": "4154",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Angláni přicházejí",
+          "url": "http://nahnoji.cz/video?id=4155",
+          "videoId": "4155",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=41",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Holubí pošta",
+          "url": "http://nahnoji.cz/video?id=4156",
+          "videoId": "4156",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=42",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Záchrana ze Saville Row",
+          "url": "http://nahnoji.cz/video?id=4157",
+          "videoId": "4157",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=43",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Poprava",
+          "url": "http://nahnoji.cz/video?id=7814",
+          "videoId": "7814",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=44",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Pohřeb",
+          "url": "http://nahnoji.cz/video?id=4159",
+          "videoId": "4159",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=45",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Plukovník slaví",
+          "url": "http://nahnoji.cz/video?id=4160",
+          "videoId": "4160",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=46",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Tanec Hitlerových hochů",
+          "url": "http://nahnoji.cz/video?id=4161",
+          "videoId": "4161",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=47",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Šest velkých melounů",
+          "url": "http://nahnoji.cz/video?id=7815",
+          "videoId": "7815",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=48",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Námluvy vdovy Artoisové",
+          "url": "http://nahnoji.cz/video?id=4164",
+          "videoId": "4164",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=49",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Přichází polucista",
+          "url": "http://nahnoji.cz/video?id=4165",
+          "videoId": "4165",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=50",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Rychle a stylově",
+          "url": "http://nahnoji.cz/video?id=4166",
+          "videoId": "4166",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=51",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Souboj",
+          "url": "http://nahnoji.cz/video?id=4167",
+          "videoId": "4167",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=52",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Pomsta Herr Flicka",
+          "url": "http://nahnoji.cz/video?id=4168",
+          "videoId": "4168",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=53",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Dort ze zámku",
+          "url": "http://nahnoji.cz/video?id=7816",
+          "videoId": "7816",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=54",
+          "status": "pending",
+          "filename": "S02E07.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Ukradený salám",
+          "url": "http://nahnoji.cz/video?id=7818",
+          "videoId": "7818",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=55",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Gruber v ráži",
+          "url": "http://nahnoji.cz/video?id=7819",
+          "videoId": "7819",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=56",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Salám ve skříni",
+          "url": "http://nahnoji.cz/video?id=7820",
+          "videoId": "7820",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=57",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Letecký den",
+          "url": "http://nahnoji.cz/video?id=7821",
+          "videoId": "7821",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=58",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Služebné",
+          "url": "http://nahnoji.cz/video?id=7822",
+          "videoId": "7822",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=59",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Velký přítěk",
+          "url": "http://nahnoji.cz/video?id=7823",
+          "videoId": "7823",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=60",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Váleční zajatci",
+          "url": "http://nahnoji.cz/video?id=7826",
+          "videoId": "7826",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=61",
+          "status": "pending",
+          "filename": "S04E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Taneční vystoupení",
+          "url": "http://nahnoji.cz/video?id=7827",
+          "videoId": "7827",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=62",
+          "status": "pending",
+          "filename": "S04E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Kvalita neroste na stromě",
+          "url": "http://nahnoji.cz/video?id=7828",
+          "videoId": "7828",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=63",
+          "status": "pending",
+          "filename": "S04E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Létající jeptiška",
+          "url": "http://nahnoji.cz/video?id=7829",
+          "videoId": "7829",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=64",
+          "status": "pending",
+          "filename": "S04E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Salám v kalhotech",
+          "url": "http://nahnoji.cz/video?id=7830",
+          "videoId": "7830",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=65",
+          "status": "pending",
+          "filename": "S04E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Raketová tchyně",
+          "url": "http://nahnoji.cz/video?id=7831",
+          "videoId": "7831",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=66",
+          "status": "pending",
+          "filename": "S04E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Zoufalci v žaláři",
+          "url": "http://nahnoji.cz/video?id=11288",
+          "videoId": "11288",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=67",
+          "status": "pending",
+          "filename": "S05E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Bramborový aparát",
+          "url": "http://nahnoji.cz/video?id=11289",
+          "videoId": "11289",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=68",
+          "status": "pending",
+          "filename": "S05E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Krádež trezoru",
+          "url": "http://nahnoji.cz/video?id=11290",
+          "videoId": "11290",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=69",
+          "status": "pending",
+          "filename": "S05E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Svíčky pro Reného",
+          "url": "http://nahnoji.cz/video?id=11291",
+          "videoId": "11291",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=70",
+          "status": "pending",
+          "filename": "S05E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Dětská láska",
+          "url": "http://nahnoji.cz/video?id=11292",
+          "videoId": "11292",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=71",
+          "status": "pending",
+          "filename": "S05E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Těžké manželství",
+          "url": "http://nahnoji.cz/video?id=11293",
+          "videoId": "11293",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=72",
+          "status": "pending",
+          "filename": "S05E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Jsem svůj otec",
+          "url": "http://nahnoji.cz/video?id=11294",
+          "videoId": "11294",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=73",
+          "status": "pending",
+          "filename": "S05E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Dalekonosný kačer",
+          "url": "http://nahnoji.cz/video?id=11295",
+          "videoId": "11295",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=74",
+          "status": "pending",
+          "filename": "S05E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Konference",
+          "url": "http://nahnoji.cz/video?id=11296",
+          "videoId": "11296",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=75",
+          "status": "pending",
+          "filename": "S05E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Výbušný nos",
+          "url": "http://nahnoji.cz/video?id=11297",
+          "videoId": "11297",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=76",
+          "status": "pending",
+          "filename": "S05E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Sedláci a prodavači cibule",
+          "url": "http://nahnoji.cz/video?id=11298",
+          "videoId": "11298",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=77",
+          "status": "pending",
+          "filename": "S05E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Loďka",
+          "url": "http://nahnoji.cz/video?id=11299",
+          "videoId": "11299",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=78",
+          "status": "pending",
+          "filename": "S05E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Bankovní loupež",
+          "url": "http://nahnoji.cz/video?id=11300",
+          "videoId": "11300",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=79",
+          "status": "pending",
+          "filename": "S05E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Horké peníze",
+          "url": "http://nahnoji.cz/video?id=11301",
+          "videoId": "11301",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=80",
+          "status": "pending",
+          "filename": "S05E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Falešné peníze",
+          "url": "http://nahnoji.cz/video?id=11302",
+          "videoId": "11302",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=81",
+          "status": "pending",
+          "filename": "S05E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Nemocnice",
+          "url": "http://nahnoji.cz/video?id=11303",
+          "videoId": "11303",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=82",
+          "status": "pending",
+          "filename": "S05E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Nášlapné miny",
+          "url": "http://nahnoji.cz/video?id=11304",
+          "videoId": "11304",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=83",
+          "status": "pending",
+          "filename": "S05E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Peníze z nebe",
+          "url": "http://nahnoji.cz/video?id=11305",
+          "videoId": "11305",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=84",
+          "status": "pending",
+          "filename": "S05E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Vánoční puding",
+          "url": "http://nahnoji.cz/video?id=11306",
+          "videoId": "11306",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=85",
+          "status": "pending",
+          "filename": "S05E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Shozeni v Anglii",
+          "url": "http://nahnoji.cz/video?id=11307",
+          "videoId": "11307",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=86",
+          "status": "pending",
+          "filename": "S05E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Prťavá ponorka",
+          "url": "http://nahnoji.cz/video?id=11308",
+          "videoId": "11308",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=87",
+          "status": "pending",
+          "filename": "S05E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Trezor",
+          "url": "http://nahnoji.cz/video?id=11309",
+          "videoId": "11309",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=88",
+          "status": "pending",
+          "filename": "S05E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Kvarteto Excelsior",
+          "url": "http://nahnoji.cz/video?id=11310",
+          "videoId": "11310",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=89",
+          "status": "pending",
+          "filename": "S05E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Svatba s Edith",
+          "url": "http://nahnoji.cz/video?id=11311",
+          "videoId": "11311",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=90",
+          "status": "pending",
+          "filename": "S05E24.mp4"
+        },
+        {
+          "episode": 25,
+          "title": "Velký splách",
+          "url": "http://nahnoji.cz/video?id=11312",
+          "videoId": "11312",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=91",
+          "status": "pending",
+          "filename": "S05E25.mp4"
+        },
+        {
+          "episode": 26,
+          "title": "Enigma",
+          "url": "http://nahnoji.cz/video?id=11313",
+          "videoId": "11313",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=92",
+          "status": "pending",
+          "filename": "S05E26.mp4"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Reného duch",
+          "url": "http://nahnoji.cz/video?id=11314",
+          "videoId": "11314",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=93",
+          "status": "pending",
+          "filename": "S06E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Falešní letci",
+          "url": "http://nahnoji.cz/video?id=11315",
+          "videoId": "11315",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=94",
+          "status": "pending",
+          "filename": "S06E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Husa s blikajíma očima",
+          "url": "http://nahnoji.cz/video?id=11316",
+          "videoId": "11316",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=95",
+          "status": "pending",
+          "filename": "S06E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Záchrana letců",
+          "url": "http://nahnoji.cz/video?id=11317",
+          "videoId": "11317",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=96",
+          "status": "pending",
+          "filename": "S06E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Chlapci z rozvědky",
+          "url": "http://nahnoji.cz/video?id=11318",
+          "videoId": "11318",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=97",
+          "status": "pending",
+          "filename": "S06E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Plot",
+          "url": "http://nahnoji.cz/video?id=11319",
+          "videoId": "11319",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=98",
+          "status": "pending",
+          "filename": "S06E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Fanny se vdává",
+          "url": "http://nahnoji.cz/video?id=11320",
+          "videoId": "11320",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=99",
+          "status": "pending",
+          "filename": "S06E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Létající postel",
+          "url": "http://nahnoji.cz/video?id=11321",
+          "videoId": "11321",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=100",
+          "status": "pending",
+          "filename": "S06E08.mp4"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Season 7",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Padělané doklady",
+          "url": "http://nahnoji.cz/video?id=11322",
+          "videoId": "11322",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=101",
+          "status": "pending",
+          "filename": "S07E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Výbušné svíčky",
+          "url": "http://nahnoji.cz/video?id=11323",
+          "videoId": "11323",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=102",
+          "status": "pending",
+          "filename": "S07E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Let do Anglie",
+          "url": "http://nahnoji.cz/video?id=11324",
+          "videoId": "11324",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=103",
+          "status": "pending",
+          "filename": "S07E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "René v Anglii",
+          "url": "http://nahnoji.cz/video?id=11325",
+          "videoId": "11325",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=104",
+          "status": "pending",
+          "filename": "S07E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Telegrafní sloupy",
+          "url": "http://nahnoji.cz/video?id=11326",
+          "videoId": "11326",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=105",
+          "status": "pending",
+          "filename": "S07E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Duch Nuvionu",
+          "url": "http://nahnoji.cz/video?id=11327",
+          "videoId": "11327",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=106",
+          "status": "pending",
+          "filename": "S07E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Sudy na víno",
+          "url": "http://nahnoji.cz/video?id=11328",
+          "videoId": "11328",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=107",
+          "status": "pending",
+          "filename": "S07E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Pomatené manželství",
+          "url": "http://nahnoji.cz/video?id=11329",
+          "videoId": "11329",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=108",
+          "status": "pending",
+          "filename": "S07E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Zmrzlina",
+          "url": "http://nahnoji.cz/video?id=11330",
+          "videoId": "11330",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=109",
+          "status": "pending",
+          "filename": "S07E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Cikáni",
+          "url": "http://nahnoji.cz/video?id=11331",
+          "videoId": "11331",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=110",
+          "status": "pending",
+          "filename": "S07E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Season 8",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Těhotenství",
+          "url": "http://nahnoji.cz/video?id=11332",
+          "videoId": "11332",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=111",
+          "status": "pending",
+          "filename": "S08E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Rádio",
+          "url": "http://nahnoji.cz/video?id=11333",
+          "videoId": "11333",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=112",
+          "status": "pending",
+          "filename": "S08E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Vydírání a krádež",
+          "url": "http://nahnoji.cz/video?id=11334",
+          "videoId": "11334",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=113",
+          "status": "pending",
+          "filename": "S08E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Dynamit pro Hitlera",
+          "url": "http://nahnoji.cz/video?id=11335",
+          "videoId": "11335",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=114",
+          "status": "pending",
+          "filename": "S08E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Chycení Hitlera",
+          "url": "http://nahnoji.cz/video?id=11336",
+          "videoId": "11336",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=115",
+          "status": "pending",
+          "filename": "S08E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Hitler na útěku",
+          "url": "http://nahnoji.cz/video?id=11337",
+          "videoId": "11337",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=116",
+          "status": "pending",
+          "filename": "S08E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Ryba",
+          "url": "http://nahnoji.cz/video?id=11338",
+          "videoId": "11338",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=117",
+          "status": "pending",
+          "filename": "S08E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Útěk do Španělska",
+          "url": "http://nahnoji.cz/video?id=11339",
+          "videoId": "11339",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=118",
+          "status": "pending",
+          "filename": "S08E08.mp4"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": "Season 9",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Větrný mlýn",
+          "url": "http://nahnoji.cz/video?id=11340",
+          "videoId": "11340",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=119",
+          "status": "pending",
+          "filename": "S09E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Otroci lásky",
+          "url": "http://nahnoji.cz/video?id=11341",
+          "videoId": "11341",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=120",
+          "status": "pending",
+          "filename": "S09E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Amnézie",
+          "url": "http://nahnoji.cz/video?id=11342",
+          "videoId": "11342",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=121",
+          "status": "pending",
+          "filename": "S09E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Rybářská přehlídka",
+          "url": "http://nahnoji.cz/video?id=11343",
+          "videoId": "11343",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=122",
+          "status": "pending",
+          "filename": "S09E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Golfový klub",
+          "url": "http://nahnoji.cz/video?id=11344",
+          "videoId": "11344",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=123",
+          "status": "pending",
+          "filename": "S09E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Konec války",
+          "url": "http://nahnoji.cz/video?id=11345",
+          "videoId": "11345",
+          "originalUrl": "http://halohalo.sifee.biz/index.php?video=124",
+          "status": "pending",
+          "filename": "S09E06.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 85,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 85
+  }
+}

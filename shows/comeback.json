@@ -1,0 +1,354 @@
+{
+  "showName": "Comeback",
+  "showNameCz": "Comeback",
+  "year": "2008-2010",
+  "description": "Czech comedy series about a washed-up actor Ozzy (Ozzák) trying to make a comeback",
+  "targetFolder": "Comeback",
+  "source": "nahnoji.cz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Křeslo",
+          "url": "http://nahnoji.cz/video?id=13115",
+          "videoId": "13115",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Gott Ex Machina",
+          "url": "http://nahnoji.cz/video?id=13117",
+          "videoId": "13117",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Souboj titánů",
+          "url": "http://nahnoji.cz/video?id=13119",
+          "videoId": "13119",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Pomáhat a chránit",
+          "url": "http://nahnoji.cz/video?id=13120",
+          "videoId": "13120",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Pravidla rodinného provozzu",
+          "url": "http://nahnoji.cz/video?id=13121",
+          "videoId": "13121",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Je jaro...",
+          "url": "http://nahnoji.cz/video?id=13122",
+          "videoId": "13122",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Lexa a porno",
+          "url": "http://nahnoji.cz/video?id=13126",
+          "videoId": "13126",
+          "status": "pending",
+          "filename": "S01E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Giganti",
+          "url": "http://nahnoji.cz/video?id=13128",
+          "videoId": "13128",
+          "status": "pending",
+          "filename": "S01E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Zlatá rybka",
+          "url": "http://nahnoji.cz/video?id=13132",
+          "videoId": "13132",
+          "status": "pending",
+          "filename": "S01E12.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Heavy Christmas",
+          "url": "http://nahnoji.cz/video?id=13139",
+          "videoId": "13139",
+          "status": "pending",
+          "filename": "S01E16.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Czechsteh",
+          "url": "http://nahnoji.cz/video?id=13145",
+          "videoId": "13145",
+          "status": "pending",
+          "filename": "S01E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Mrtvý muž",
+          "url": "http://nahnoji.cz/video?id=16594",
+          "videoId": "16594",
+          "status": "pending",
+          "filename": "S01E19.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Koprovka",
+          "url": "http://nahnoji.cz/video?id=13150",
+          "videoId": "13150",
+          "status": "pending",
+          "filename": "S01E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Narozzeniny",
+          "url": "http://nahnoji.cz/video?id=13151",
+          "videoId": "13151",
+          "status": "pending",
+          "filename": "S01E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Rozzvod",
+          "url": "http://nahnoji.cz/video?id=13152",
+          "videoId": "13152",
+          "status": "pending",
+          "filename": "S01E24.mp4"
+        },
+        {
+          "episode": 25,
+          "title": "Prohozz",
+          "url": "http://nahnoji.cz/video?id=13153",
+          "videoId": "13153",
+          "status": "pending",
+          "filename": "S01E25.mp4"
+        },
+        {
+          "episode": 28,
+          "title": "Absťák",
+          "url": "http://nahnoji.cz/video?id=13156",
+          "videoId": "13156",
+          "status": "pending",
+          "filename": "S01E28.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Změna je pivo",
+          "url": "http://nahnoji.cz/video?id=13165",
+          "videoId": "13165",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Děvečka z Lídecka",
+          "url": "http://nahnoji.cz/video?id=18496",
+          "videoId": "18496",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Zlatá ledvina",
+          "url": "http://nahnoji.cz/video?id=13168",
+          "videoId": "13168",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Zdravý a nemocný",
+          "url": "http://nahnoji.cz/video?id=18497",
+          "videoId": "18497",
+          "status": "pending",
+          "filename": "S02E08.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Třinácté pivo",
+          "url": "http://nahnoji.cz/video?id=13175",
+          "videoId": "13175",
+          "status": "pending",
+          "filename": "S02E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Bez kláves neodejdu",
+          "url": "http://nahnoji.cz/video?id=13176",
+          "videoId": "13176",
+          "status": "pending",
+          "filename": "S02E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Let mouchy",
+          "url": "http://nahnoji.cz/video?id=13177",
+          "videoId": "13177",
+          "status": "pending",
+          "filename": "S02E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Obraz paní Rybkové",
+          "url": "http://nahnoji.cz/video?id=13178",
+          "videoId": "13178",
+          "status": "pending",
+          "filename": "S02E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Zabijačka",
+          "url": "http://nahnoji.cz/video?id=13179",
+          "videoId": "13179",
+          "status": "pending",
+          "filename": "S02E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Sulc",
+          "url": "http://nahnoji.cz/video?id=13180",
+          "videoId": "13180",
+          "status": "pending",
+          "filename": "S02E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Holter",
+          "url": "http://nahnoji.cz/video?id=13181",
+          "videoId": "13181",
+          "status": "pending",
+          "filename": "S02E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Strakonický bubák",
+          "url": "http://nahnoji.cz/video?id=13182",
+          "videoId": "13182",
+          "status": "pending",
+          "filename": "S02E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Havárie",
+          "url": "http://nahnoji.cz/video?id=13183",
+          "videoId": "13183",
+          "status": "pending",
+          "filename": "S02E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Francouzská restaurace",
+          "url": "http://nahnoji.cz/video?id=13184",
+          "videoId": "13184",
+          "status": "pending",
+          "filename": "S02E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Snad to vyjde příště",
+          "url": "http://nahnoji.cz/video?id=13185",
+          "videoId": "13185",
+          "status": "pending",
+          "filename": "S02E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Slepák",
+          "url": "http://nahnoji.cz/video?id=13186",
+          "videoId": "13186",
+          "status": "pending",
+          "filename": "S02E21.mp4"
+        }
+      ]
+    },
+    {
+      "season": 0,
+      "title": "Specials",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Ozzákova škola slavení - Úvod",
+          "url": "http://nahnoji.cz/video?id=13159",
+          "videoId": "13159",
+          "status": "pending",
+          "filename": "S00E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Ozzákova škola slavení - Nóbl chlast",
+          "url": "http://nahnoji.cz/video?id=13160",
+          "videoId": "13160",
+          "status": "pending",
+          "filename": "S00E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Ozzákova škola kalení - Trocha toho punku",
+          "url": "http://nahnoji.cz/video?id=13141",
+          "videoId": "13141",
+          "status": "pending",
+          "filename": "S00E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Ozzákova škola kalení - Pivulák",
+          "url": "http://nahnoji.cz/video?id=13140",
+          "videoId": "13140",
+          "status": "pending",
+          "filename": "S00E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Ozzákova škola kalení - Novoroční projev 2009",
+          "url": "http://nahnoji.cz/video?id=13143",
+          "videoId": "13143",
+          "status": "pending",
+          "filename": "S00E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Ozzákova škola slavení - Novoroční projev 2010",
+          "url": "http://nahnoji.cz/video?id=13164",
+          "videoId": "13164",
+          "status": "pending",
+          "filename": "S00E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Ozzákova škola kalení - Vystřízlivovák",
+          "url": "http://nahnoji.cz/video?id=13142",
+          "videoId": "13142",
+          "status": "pending",
+          "filename": "S00E07.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 40,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 40
+  }
+}

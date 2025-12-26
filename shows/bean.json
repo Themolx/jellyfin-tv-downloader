@@ -1,0 +1,149 @@
+{
+  "showName": "Bean",
+  "showNameCz": "Bean",
+  "year": "",
+  "description": "Scraped from http://bean.sifee.biz",
+  "targetFolder": "bean",
+  "source": "nahnoji.cz",
+  "originalSource": "http://bean.sifee.biz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Mr. Bean",
+          "url": "http://nahnoji.cz/video?id=583",
+          "videoId": "583",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Návrat pana Beana",
+          "url": "http://nahnoji.cz/video?id=608",
+          "videoId": "608",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=2",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Prokletí pana Beana",
+          "url": "http://nahnoji.cz/video?id=842",
+          "videoId": "842",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=3",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Pan Bean jde do města",
+          "url": "http://nahnoji.cz/video?id=843",
+          "videoId": "843",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=4",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Trable pana Beana",
+          "url": "http://nahnoji.cz/video?id=845",
+          "videoId": "845",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=5",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Pan Bean znovu jede",
+          "url": "http://nahnoji.cz/video?id=854",
+          "videoId": "854",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=6",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Veselé Vánoce, pane Beane",
+          "url": "http://nahnoji.cz/video?id=846",
+          "videoId": "846",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=7",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Pan Bean v pokoji číslo 426",
+          "url": "http://nahnoji.cz/video?id=847",
+          "videoId": "847",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=8",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Pozor na dítě, pane Beane",
+          "url": "http://nahnoji.cz/video?id=848",
+          "videoId": "848",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=9",
+          "status": "pending",
+          "filename": "S01E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Udělej si sám, pane Beane",
+          "url": "http://nahnoji.cz/video?id=849",
+          "videoId": "849",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=10",
+          "status": "pending",
+          "filename": "S01E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Zpátky do školy, pane Beane",
+          "url": "http://nahnoji.cz/video?id=850",
+          "videoId": "850",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=11",
+          "status": "pending",
+          "filename": "S01E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Odpal, pane Beane",
+          "url": "http://nahnoji.cz/video?id=851",
+          "videoId": "851",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=12",
+          "status": "pending",
+          "filename": "S01E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Dobrou noc, pane Beane",
+          "url": "http://nahnoji.cz/video?id=852",
+          "videoId": "852",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=13",
+          "status": "pending",
+          "filename": "S01E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Vlasy pana Beana z Londýna",
+          "url": "http://nahnoji.cz/video?id=560",
+          "videoId": "560",
+          "originalUrl": "http://bean.sifee.biz/index.php?video=14",
+          "status": "pending",
+          "filename": "S01E14.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 14,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 14
+  }
+}

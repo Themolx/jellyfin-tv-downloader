@@ -1,0 +1,18 @@
+{
+    "name": "jellyfin-tv-downloader",
+    "version": "1.0.0",
+    "description": "Download Czech-dubbed TV shows for Jellyfin",
+    "type": "module",
+    "main": "tv-downloader.js",
+    "scripts": {
+        "start": "node tv-downloader.js",
+        "list": "node tv-downloader.js --list",
+        "status": "node tv-downloader.js --status"
+    },
+    "dependencies": {
+        "playwright": "^1.40.0"
+    },
+    "engines": {
+        "node": ">=18.0.0"
+    }
+}

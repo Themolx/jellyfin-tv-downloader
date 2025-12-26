@@ -1,0 +1,857 @@
+{
+  "showName": "Griffinovi",
+  "showNameCz": "Griffinovi",
+  "year": "",
+  "description": "Scraped from http://griffinovi.nikee.net",
+  "targetFolder": "griffinovi",
+  "source": "nahnoji.cz",
+  "nikeeSource": "http://griffinovi.nikee.net",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Démon alkohol",
+          "url": "http://nahnoji.cz/video?id=10711",
+          "videoId": "10711",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Veřejný nepřítel",
+          "url": "http://nahnoji.cz/video?id=10712",
+          "videoId": "10712",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=2",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Bumtarata smrt",
+          "url": "http://nahnoji.cz/video?id=10713",
+          "videoId": "10713",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=3",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Stroj času",
+          "url": "http://nahnoji.cz/video?id=10714",
+          "videoId": "10714",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=4",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Hrdina odvedle",
+          "url": "http://nahnoji.cz/video?id=10715",
+          "videoId": "10715",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=5",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Poslední skaut",
+          "url": "http://nahnoji.cz/video?id=10716",
+          "videoId": "10716",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=6",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "I pes má svou hrdost",
+          "url": "http://nahnoji.cz/video?id=10717",
+          "videoId": "10717",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=7",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Peter, Peter, kaviárovej fotr",
+          "url": "http://nahnoji.cz/video?id=10718",
+          "videoId": "10718",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=8",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Svatá sprostoto",
+          "url": "http://nahnoji.cz/video?id=10719",
+          "videoId": "10719",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=9",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Tě prásk",
+          "url": "http://nahnoji.cz/video?id=10720",
+          "videoId": "10720",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=10",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Zamilovaný Brian",
+          "url": "http://nahnoji.cz/video?id=10721",
+          "videoId": "10721",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=11",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Trofej nade vše",
+          "url": "http://nahnoji.cz/video?id=10722",
+          "videoId": "10722",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=12",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Se smrtí nejsou žerty",
+          "url": "http://nahnoji.cz/video?id=10723",
+          "videoId": "10723",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=13",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Král je mrtev",
+          "url": "http://nahnoji.cz/video?id=10724",
+          "videoId": "10724",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=14",
+          "status": "pending",
+          "filename": "S02E07.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Dejte mi svůj hlas",
+          "url": "http://nahnoji.cz/video?id=8614",
+          "videoId": "8614",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=17",
+          "status": "pending",
+          "filename": "S02E10.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Ropuší problém",
+          "url": "http://nahnoji.cz/video?id=10254",
+          "videoId": "10254",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=21",
+          "status": "pending",
+          "filename": "S02E14.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Peter Veliký",
+          "url": "http://nahnoji.cz/video?id=10236",
+          "videoId": "10236",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=25",
+          "status": "pending",
+          "filename": "S02E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Příběh z první stránky",
+          "url": "http://nahnoji.cz/video?id=2209",
+          "videoId": "2209",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=26",
+          "status": "pending",
+          "filename": "S02E19.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Tenká bílá linie",
+          "url": "http://nahnoji.cz/video?id=1854",
+          "videoId": "1854",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=29",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Vánoční šílenství",
+          "url": "http://nahnoji.cz/video?id=10257",
+          "videoId": "10257",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=44",
+          "status": "pending",
+          "filename": "S03E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Brian toká, Peter kvoká",
+          "url": "http://nahnoji.cz/video?id=10255",
+          "videoId": "10255",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=45",
+          "status": "pending",
+          "filename": "S03E17.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 9,
+          "title": "Útěk z vězení není sranda",
+          "url": "http://nahnoji.cz/video?id=10234",
+          "videoId": "10234",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=59",
+          "status": "pending",
+          "filename": "S04E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Vzor nectností",
+          "url": "http://nahnoji.cz/video?id=10267",
+          "videoId": "10267",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=60",
+          "status": "pending",
+          "filename": "S04E10.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Tajná aféra",
+          "url": "http://nahnoji.cz/video?id=10235",
+          "videoId": "10235",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=73",
+          "status": "pending",
+          "filename": "S04E23.mp4"
+        },
+        {
+          "episode": 30,
+          "title": "Báječné dobrodružství Stua a Stewieho",
+          "url": "http://nahnoji.cz/video?id=10266",
+          "videoId": "10266",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=80",
+          "status": "pending",
+          "filename": "S04E30.mp4"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Stewie miluje Lois",
+          "url": "http://nahnoji.cz/video?id=10256",
+          "videoId": "10256",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=81",
+          "status": "pending",
+          "filename": "S05E01.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Ruperte, kde jsi?",
+          "url": "http://nahnoji.cz/video?id=8612",
+          "videoId": "8612",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=89",
+          "status": "pending",
+          "filename": "S05E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Peter a jeho otec",
+          "url": "http://nahnoji.cz/video?id=8613",
+          "videoId": "8613",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=90",
+          "status": "pending",
+          "filename": "S05E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 15,
+      "title": "Season 15",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Kluci z kapely",
+          "url": "http://nahnoji.cz/video?id=14474",
+          "videoId": "14474",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=278",
+          "status": "pending",
+          "filename": "S15E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Sázkař roku",
+          "url": "http://nahnoji.cz/video?id=14475",
+          "videoId": "14475",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=279",
+          "status": "pending",
+          "filename": "S15E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Americký gigolo",
+          "url": "http://nahnoji.cz/video?id=14476",
+          "videoId": "14476",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=280",
+          "status": "pending",
+          "filename": "S15E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "V nitru Griffinových",
+          "url": "http://nahnoji.cz/video?id=14477",
+          "videoId": "14477",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=281",
+          "status": "pending",
+          "filename": "S15E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Chris má rande, rande, rande",
+          "url": "http://nahnoji.cz/video?id=14478",
+          "videoId": "14478",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=282",
+          "status": "pending",
+          "filename": "S15E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Ne očkování",
+          "url": "http://nahnoji.cz/video?id=14479",
+          "videoId": "14479",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=283",
+          "status": "pending",
+          "filename": "S15E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Čtenářský deník",
+          "url": "http://nahnoji.cz/video?id=14480",
+          "videoId": "14480",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=284",
+          "status": "pending",
+          "filename": "S15E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Carter a Tricia",
+          "url": "http://nahnoji.cz/video?id=14481",
+          "videoId": "14481",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=285",
+          "status": "pending",
+          "filename": "S15E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Jak Griffin ukradl Vánoce",
+          "url": "http://nahnoji.cz/video?id=14482",
+          "videoId": "14482",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=286",
+          "status": "pending",
+          "filename": "S15E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Únos letadla",
+          "url": "http://nahnoji.cz/video?id=14483",
+          "videoId": "14483",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=287",
+          "status": "pending",
+          "filename": "S15E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Jak se zbavit souseda",
+          "url": "http://nahnoji.cz/video?id=14484",
+          "videoId": "14484",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=288",
+          "status": "pending",
+          "filename": "S15E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "DJ hluchoň",
+          "url": "http://nahnoji.cz/video?id=14485",
+          "videoId": "14485",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=289",
+          "status": "pending",
+          "filename": "S15E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Jako z partesu",
+          "url": "http://nahnoji.cz/video?id=14486",
+          "videoId": "14486",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=290",
+          "status": "pending",
+          "filename": "S15E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Ve spárech seznamky",
+          "url": "http://nahnoji.cz/video?id=14487",
+          "videoId": "14487",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=291",
+          "status": "pending",
+          "filename": "S15E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Hrdina v utajení",
+          "url": "http://nahnoji.cz/video?id=14488",
+          "videoId": "14488",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=292",
+          "status": "pending",
+          "filename": "S15E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Zdravé peklo",
+          "url": "http://nahnoji.cz/video?id=14489",
+          "videoId": "14489",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=293",
+          "status": "pending",
+          "filename": "S15E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Peterovo ztracené mládí",
+          "url": "http://nahnoji.cz/video?id=14490",
+          "videoId": "14490",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=294",
+          "status": "pending",
+          "filename": "S15E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Peter ředitelem",
+          "url": "http://nahnoji.cz/video?id=14491",
+          "videoId": "14491",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=295",
+          "status": "pending",
+          "filename": "S15E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Drazí deportovaní",
+          "url": "http://nahnoji.cz/video?id=14492",
+          "videoId": "14492",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=296",
+          "status": "pending",
+          "filename": "S15E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Dům plný Peterů",
+          "url": "http://nahnoji.cz/video?id=14493",
+          "videoId": "14493",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=297",
+          "status": "pending",
+          "filename": "S15E20.mp4"
+        }
+      ]
+    },
+    {
+      "season": 16,
+      "title": "Season 16",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Epizoda oceněná Emmy",
+          "url": "http://nahnoji.cz/video?id=14499",
+          "videoId": "14499",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=298",
+          "status": "pending",
+          "filename": "S16E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Kozel zahradník",
+          "url": "http://nahnoji.cz/video?id=14500",
+          "videoId": "14500",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=299",
+          "status": "pending",
+          "filename": "S16E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Chůva k nezaplacení",
+          "url": "http://nahnoji.cz/video?id=14501",
+          "videoId": "14501",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=300",
+          "status": "pending",
+          "filename": "S16E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Honba za dolarem",
+          "url": "http://nahnoji.cz/video?id=14502",
+          "videoId": "14502",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=301",
+          "status": "pending",
+          "filename": "S16E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Tři režiséři",
+          "url": "http://nahnoji.cz/video?id=14503",
+          "videoId": "14503",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=302",
+          "status": "pending",
+          "filename": "S16E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Brianův tweet",
+          "url": "http://nahnoji.cz/video?id=14504",
+          "videoId": "14504",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=303",
+          "status": "pending",
+          "filename": "S16E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Peter vs. Putin",
+          "url": "http://nahnoji.cz/video?id=14505",
+          "videoId": "14505",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=304",
+          "status": "pending",
+          "filename": "S16E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Zločin a Megin trest",
+          "url": "http://nahnoji.cz/video?id=14506",
+          "videoId": "14506",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=305",
+          "status": "pending",
+          "filename": "S16E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Peterovy Vánoce",
+          "url": "http://nahnoji.cz/video?id=14507",
+          "videoId": "14507",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=306",
+          "status": "pending",
+          "filename": "S16E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Psí námluvy",
+          "url": "http://nahnoji.cz/video?id=14508",
+          "videoId": "14508",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=307",
+          "status": "pending",
+          "filename": "S16E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Pes roztrhal medvěda",
+          "url": "http://nahnoji.cz/video?id=14509",
+          "videoId": "14509",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=308",
+          "status": "pending",
+          "filename": "S16E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Stewieho terapie",
+          "url": "http://nahnoji.cz/video?id=14510",
+          "videoId": "14510",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=309",
+          "status": "pending",
+          "filename": "S16E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Případ pro Sherlocka",
+          "url": "http://nahnoji.cz/video?id=14511",
+          "videoId": "14511",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=310",
+          "status": "pending",
+          "filename": "S16E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Čtyři veteráni",
+          "url": "http://nahnoji.cz/video?id=14512",
+          "videoId": "14512",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=311",
+          "status": "pending",
+          "filename": "S16E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Čokl z Wall Streetu",
+          "url": "http://nahnoji.cz/video?id=14513",
+          "videoId": "14513",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=312",
+          "status": "pending",
+          "filename": "S16E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Griffinovi v běhu času",
+          "url": "http://nahnoji.cz/video?id=14514",
+          "videoId": "14514",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=313",
+          "status": "pending",
+          "filename": "S16E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Výměna těl",
+          "url": "http://nahnoji.cz/video?id=14515",
+          "videoId": "14515",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=314",
+          "status": "pending",
+          "filename": "S16E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Peter, zkáza internetu",
+          "url": "http://nahnoji.cz/video?id=14516",
+          "videoId": "14516",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=315",
+          "status": "pending",
+          "filename": "S16E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Nejdrsnější řez",
+          "url": "http://nahnoji.cz/video?id=14517",
+          "videoId": "14517",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=316",
+          "status": "pending",
+          "filename": "S16E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Mrtvý prd ví",
+          "url": "http://nahnoji.cz/video?id=14518",
+          "videoId": "14518",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=317",
+          "status": "pending",
+          "filename": "S16E20.mp4"
+        }
+      ]
+    },
+    {
+      "season": 17,
+      "title": "Season 17",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Ženatý se závazkem",
+          "url": "http://nahnoji.cz/video?id=20011",
+          "videoId": "20011",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=318",
+          "status": "pending",
+          "filename": "S17E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Mrtvý pes přichází",
+          "url": "http://nahnoji.cz/video?id=20012",
+          "videoId": "20012",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=319",
+          "status": "pending",
+          "filename": "S17E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Kámoš Stewie",
+          "url": "http://nahnoji.cz/video?id=20013",
+          "videoId": "20013",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=320",
+          "status": "pending",
+          "filename": "S17E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Velké nesnáze v malém Quahogu",
+          "url": "http://nahnoji.cz/video?id=20014",
+          "videoId": "20014",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=321",
+          "status": "pending",
+          "filename": "S17E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Myslete na Cartera",
+          "url": "http://nahnoji.cz/video?id=20015",
+          "videoId": "20015",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=322",
+          "status": "pending",
+          "filename": "S17E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Zachraňte Meg",
+          "url": "http://nahnoji.cz/video?id=20016",
+          "videoId": "20016",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=323",
+          "status": "pending",
+          "filename": "S17E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Meg na zimních hrách",
+          "url": "http://nahnoji.cz/video?id=20017",
+          "videoId": "20017",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=324",
+          "status": "pending",
+          "filename": "S17E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Zlatokopové",
+          "url": "http://nahnoji.cz/video?id=20018",
+          "videoId": "20018",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=325",
+          "status": "pending",
+          "filename": "S17E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Souboj maskotů",
+          "url": "http://nahnoji.cz/video?id=20019",
+          "videoId": "20019",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=326",
+          "status": "pending",
+          "filename": "S17E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Chlapácké odstíny šedi",
+          "url": "http://nahnoji.cz/video?id=20020",
+          "videoId": "20020",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=327",
+          "status": "pending",
+          "filename": "S17E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "U Trumpů",
+          "url": "http://nahnoji.cz/video?id=20021",
+          "videoId": "20021",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=328",
+          "status": "pending",
+          "filename": "S17E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Brianův smysl života",
+          "url": "http://nahnoji.cz/video?id=20022",
+          "videoId": "20022",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=329",
+          "status": "pending",
+          "filename": "S17E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Trans-tloušť",
+          "url": "http://nahnoji.cz/video?id=20023",
+          "videoId": "20023",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=330",
+          "status": "pending",
+          "filename": "S17E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Peter na dietě",
+          "url": "http://nahnoji.cz/video?id=20024",
+          "videoId": "20024",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=331",
+          "status": "pending",
+          "filename": "S17E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Otec na baterky",
+          "url": "http://nahnoji.cz/video?id=20025",
+          "videoId": "20025",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=332",
+          "status": "pending",
+          "filename": "S17E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "V kabině se dějí věci",
+          "url": "http://nahnoji.cz/video?id=20026",
+          "videoId": "20026",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=333",
+          "status": "pending",
+          "filename": "S17E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Ostrov odpadů",
+          "url": "http://nahnoji.cz/video?id=20027",
+          "videoId": "20027",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=334",
+          "status": "pending",
+          "filename": "S17E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Očista dočista",
+          "url": "http://nahnoji.cz/video?id=20028",
+          "videoId": "20028",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=335",
+          "status": "pending",
+          "filename": "S17E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Zinternetovaná Meg",
+          "url": "http://nahnoji.cz/video?id=20029",
+          "videoId": "20029",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=336",
+          "status": "pending",
+          "filename": "S17E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Střední škola Adama Westa",
+          "url": "http://nahnoji.cz/video?id=20030",
+          "videoId": "20030",
+          "nikeeUrl": "http://griffinovi.nikee.net/index.php?video=337",
+          "status": "pending",
+          "filename": "S17E20.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 88,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 88
+  }
+}

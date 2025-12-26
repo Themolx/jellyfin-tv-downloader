@@ -1,0 +1,662 @@
+{
+  "showName": "House",
+  "showNameCz": "House",
+  "year": "",
+  "description": "Scraped from http://house.sifee.biz",
+  "targetFolder": "house",
+  "source": "nahnoji.cz",
+  "originalSource": "http://house.sifee.biz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pilotní díl",
+          "url": "http://nahnoji.cz/video?id=149",
+          "videoId": "149",
+          "originalUrl": "http://house.sifee.biz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Otázka rodičovství",
+          "url": "http://nahnoji.cz/video?id=991",
+          "videoId": "991",
+          "originalUrl": "http://house.sifee.biz/index.php?video=2",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Occamova břitva",
+          "url": "http://nahnoji.cz/video?id=992",
+          "videoId": "992",
+          "originalUrl": "http://house.sifee.biz/index.php?video=3",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Mateřství",
+          "url": "http://nahnoji.cz/video?id=993",
+          "videoId": "993",
+          "originalUrl": "http://house.sifee.biz/index.php?video=4",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Jeptiška",
+          "url": "http://nahnoji.cz/video?id=994",
+          "videoId": "994",
+          "originalUrl": "http://house.sifee.biz/index.php?video=5",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Smíření",
+          "url": "http://nahnoji.cz/video?id=1081",
+          "videoId": "1081",
+          "originalUrl": "http://house.sifee.biz/index.php?video=23",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Neviditelný nádor",
+          "url": "http://nahnoji.cz/video?id=1082",
+          "videoId": "1082",
+          "originalUrl": "http://house.sifee.biz/index.php?video=24",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Bumbrlíček",
+          "url": "http://nahnoji.cz/video?id=1083",
+          "videoId": "1083",
+          "originalUrl": "http://house.sifee.biz/index.php?video=25",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Tuberák",
+          "url": "http://nahnoji.cz/video?id=1084",
+          "videoId": "1084",
+          "originalUrl": "http://house.sifee.biz/index.php?video=26",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Tatínkův chlapeček",
+          "url": "http://nahnoji.cz/video?id=1085",
+          "videoId": "1085",
+          "originalUrl": "http://house.sifee.biz/index.php?video=27",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Kolotoč",
+          "url": "http://nahnoji.cz/video?id=1086",
+          "videoId": "1086",
+          "originalUrl": "http://house.sifee.biz/index.php?video=28",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Lovci",
+          "url": "http://nahnoji.cz/video?id=1087",
+          "videoId": "1087",
+          "originalUrl": "http://house.sifee.biz/index.php?video=29",
+          "status": "pending",
+          "filename": "S02E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Chyba",
+          "url": "http://nahnoji.cz/video?id=1088",
+          "videoId": "1088",
+          "originalUrl": "http://house.sifee.biz/index.php?video=30",
+          "status": "pending",
+          "filename": "S02E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Hypochondr",
+          "url": "http://nahnoji.cz/video?id=1089",
+          "videoId": "1089",
+          "originalUrl": "http://house.sifee.biz/index.php?video=31",
+          "status": "pending",
+          "filename": "S02E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Nedorozumění",
+          "url": "http://nahnoji.cz/video?id=1090",
+          "videoId": "1090",
+          "originalUrl": "http://house.sifee.biz/index.php?video=32",
+          "status": "pending",
+          "filename": "S02E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Musím to vědět",
+          "url": "http://nahnoji.cz/video?id=1162",
+          "videoId": "1162",
+          "originalUrl": "http://house.sifee.biz/index.php?video=33",
+          "status": "pending",
+          "filename": "S02E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Rozptýlení",
+          "url": "http://nahnoji.cz/video?id=1163",
+          "videoId": "1163",
+          "originalUrl": "http://house.sifee.biz/index.php?video=34",
+          "status": "pending",
+          "filename": "S02E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Modelka",
+          "url": "http://nahnoji.cz/video?id=1552",
+          "videoId": "1552",
+          "originalUrl": "http://house.sifee.biz/index.php?video=35",
+          "status": "pending",
+          "filename": "S02E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Sex zabíjí",
+          "url": "http://nahnoji.cz/video?id=1244",
+          "videoId": "1244",
+          "originalUrl": "http://house.sifee.biz/index.php?video=36",
+          "status": "pending",
+          "filename": "S02E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Zlaté ruce",
+          "url": "http://nahnoji.cz/video?id=1554",
+          "videoId": "1554",
+          "originalUrl": "http://house.sifee.biz/index.php?video=37",
+          "status": "pending",
+          "filename": "S02E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Výtah do života",
+          "url": "http://nahnoji.cz/video?id=1246",
+          "videoId": "1246",
+          "originalUrl": "http://house.sifee.biz/index.php?video=38",
+          "status": "pending",
+          "filename": "S02E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Sázka na život",
+          "url": "http://nahnoji.cz/video?id=1269",
+          "videoId": "1269",
+          "originalUrl": "http://house.sifee.biz/index.php?video=39",
+          "status": "pending",
+          "filename": "S02E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Spící psi lžou",
+          "url": "http://nahnoji.cz/video?id=1270",
+          "videoId": "1270",
+          "originalUrl": "http://house.sifee.biz/index.php?video=40",
+          "status": "pending",
+          "filename": "S02E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "House vs. Bůh",
+          "url": "http://nahnoji.cz/video?id=1271",
+          "videoId": "1271",
+          "originalUrl": "http://house.sifee.biz/index.php?video=41",
+          "status": "pending",
+          "filename": "S02E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Euforie: První část",
+          "url": "http://nahnoji.cz/video?id=1563",
+          "videoId": "1563",
+          "originalUrl": "http://house.sifee.biz/index.php?video=42",
+          "status": "pending",
+          "filename": "S02E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Euforie: Druhá část",
+          "url": "http://nahnoji.cz/video?id=1564",
+          "videoId": "1564",
+          "originalUrl": "http://house.sifee.biz/index.php?video=43",
+          "status": "pending",
+          "filename": "S02E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Na věky",
+          "url": "http://nahnoji.cz/video?id=1568",
+          "videoId": "1568",
+          "originalUrl": "http://house.sifee.biz/index.php?video=44",
+          "status": "pending",
+          "filename": "S02E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Kdo je tvůj táta?",
+          "url": "http://nahnoji.cz/video?id=1569",
+          "videoId": "1569",
+          "originalUrl": "http://house.sifee.biz/index.php?video=45",
+          "status": "pending",
+          "filename": "S02E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Příčina neznámá",
+          "url": "http://nahnoji.cz/video?id=1570",
+          "videoId": "1570",
+          "originalUrl": "http://house.sifee.biz/index.php?video=46",
+          "status": "pending",
+          "filename": "S02E24.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Smysl",
+          "url": "http://nahnoji.cz/video?id=8053",
+          "videoId": "8053",
+          "originalUrl": "http://house.sifee.biz/index.php?video=47",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Hůl a schopen",
+          "url": "http://nahnoji.cz/video?id=8054",
+          "videoId": "8054",
+          "originalUrl": "http://house.sifee.biz/index.php?video=48",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Informovaný souhlas",
+          "url": "http://nahnoji.cz/video?id=5370",
+          "videoId": "5370",
+          "originalUrl": "http://house.sifee.biz/index.php?video=49",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Čáry v písku",
+          "url": "http://nahnoji.cz/video?id=5371",
+          "videoId": "5371",
+          "originalUrl": "http://house.sifee.biz/index.php?video=50",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Zamilovaní blázni",
+          "url": "http://nahnoji.cz/video?id=5372",
+          "videoId": "5372",
+          "originalUrl": "http://house.sifee.biz/index.php?video=51",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Co se má stát, to se stane",
+          "url": "http://nahnoji.cz/video?id=8058",
+          "videoId": "8058",
+          "originalUrl": "http://house.sifee.biz/index.php?video=52",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Syn chlapa v komatu",
+          "url": "http://nahnoji.cz/video?id=8059",
+          "videoId": "8059",
+          "originalUrl": "http://house.sifee.biz/index.php?video=53",
+          "status": "pending",
+          "filename": "S03E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Plácni krtka",
+          "url": "http://nahnoji.cz/video?id=8060",
+          "videoId": "8060",
+          "originalUrl": "http://house.sifee.biz/index.php?video=54",
+          "status": "pending",
+          "filename": "S03E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Hledá se Jidáš",
+          "url": "http://nahnoji.cz/video?id=8061",
+          "videoId": "8061",
+          "originalUrl": "http://house.sifee.biz/index.php?video=55",
+          "status": "pending",
+          "filename": "S03E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Šťastné mini-vánoce",
+          "url": "http://nahnoji.cz/video?id=8062",
+          "videoId": "8062",
+          "originalUrl": "http://house.sifee.biz/index.php?video=56",
+          "status": "pending",
+          "filename": "S03E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Slova a činy",
+          "url": "http://nahnoji.cz/video?id=8063",
+          "videoId": "8063",
+          "originalUrl": "http://house.sifee.biz/index.php?video=57",
+          "status": "pending",
+          "filename": "S03E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Jeden den, jeden pokoj",
+          "url": "http://nahnoji.cz/video?id=1627",
+          "videoId": "1627",
+          "originalUrl": "http://house.sifee.biz/index.php?video=58",
+          "status": "pending",
+          "filename": "S03E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Jehla v kupce sena",
+          "url": "http://nahnoji.cz/video?id=8074",
+          "videoId": "8074",
+          "originalUrl": "http://house.sifee.biz/index.php?video=59",
+          "status": "pending",
+          "filename": "S03E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Necitlivost",
+          "url": "http://nahnoji.cz/video?id=8081",
+          "videoId": "8081",
+          "originalUrl": "http://house.sifee.biz/index.php?video=60",
+          "status": "pending",
+          "filename": "S03E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Debílek",
+          "url": "http://nahnoji.cz/video?id=8082",
+          "videoId": "8082",
+          "originalUrl": "http://house.sifee.biz/index.php?video=61",
+          "status": "pending",
+          "filename": "S03E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Přísně tajné",
+          "url": "http://nahnoji.cz/video?id=8083",
+          "videoId": "8083",
+          "originalUrl": "http://house.sifee.biz/index.php?video=62",
+          "status": "pending",
+          "filename": "S03E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Poloha plodu",
+          "url": "http://nahnoji.cz/video?id=8084",
+          "videoId": "8084",
+          "originalUrl": "http://house.sifee.biz/index.php?video=63",
+          "status": "pending",
+          "filename": "S03E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Ve vzduchu",
+          "url": "http://nahnoji.cz/video?id=8085",
+          "videoId": "8085",
+          "originalUrl": "http://house.sifee.biz/index.php?video=64",
+          "status": "pending",
+          "filename": "S03E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Pozor na věk",
+          "url": "http://nahnoji.cz/video?id=8086",
+          "videoId": "8086",
+          "originalUrl": "http://house.sifee.biz/index.php?video=65",
+          "status": "pending",
+          "filename": "S03E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Houseův výcvik",
+          "url": "http://nahnoji.cz/video?id=8087",
+          "videoId": "8087",
+          "originalUrl": "http://house.sifee.biz/index.php?video=66",
+          "status": "pending",
+          "filename": "S03E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Rodina",
+          "url": "http://nahnoji.cz/video?id=8088",
+          "videoId": "8088",
+          "originalUrl": "http://house.sifee.biz/index.php?video=67",
+          "status": "pending",
+          "filename": "S03E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Výpověď",
+          "url": "http://nahnoji.cz/video?id=8089",
+          "videoId": "8089",
+          "originalUrl": "http://house.sifee.biz/index.php?video=68",
+          "status": "pending",
+          "filename": "S03E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Cvok",
+          "url": "http://nahnoji.cz/video?id=8090",
+          "videoId": "8090",
+          "originalUrl": "http://house.sifee.biz/index.php?video=69",
+          "status": "pending",
+          "filename": "S03E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Lidská chyba",
+          "url": "http://nahnoji.cz/video?id=8091",
+          "videoId": "8091",
+          "originalUrl": "http://house.sifee.biz/index.php?video=70",
+          "status": "pending",
+          "filename": "S03E24.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Sám",
+          "url": "http://nahnoji.cz/video?id=8101",
+          "videoId": "8101",
+          "originalUrl": "http://house.sifee.biz/index.php?video=71",
+          "status": "pending",
+          "filename": "S04E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Správná věc",
+          "url": "http://nahnoji.cz/video?id=8102",
+          "videoId": "8102",
+          "originalUrl": "http://house.sifee.biz/index.php?video=72",
+          "status": "pending",
+          "filename": "S04E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "97 sekund",
+          "url": "http://nahnoji.cz/video?id=8103",
+          "videoId": "8103",
+          "originalUrl": "http://house.sifee.biz/index.php?video=73",
+          "status": "pending",
+          "filename": "S04E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Houseovi andílci",
+          "url": "http://nahnoji.cz/video?id=8104",
+          "videoId": "8104",
+          "originalUrl": "http://house.sifee.biz/index.php?video=74",
+          "status": "pending",
+          "filename": "S04E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Prohlédnutí",
+          "url": "http://nahnoji.cz/video?id=8105",
+          "videoId": "8105",
+          "originalUrl": "http://house.sifee.biz/index.php?video=75",
+          "status": "pending",
+          "filename": "S04E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Do posledního dechu",
+          "url": "http://nahnoji.cz/video?id=8106",
+          "videoId": "8106",
+          "originalUrl": "http://house.sifee.biz/index.php?video=76",
+          "status": "pending",
+          "filename": "S04E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Ošklivec",
+          "url": "http://nahnoji.cz/video?id=8107",
+          "videoId": "8107",
+          "originalUrl": "http://house.sifee.biz/index.php?video=77",
+          "status": "pending",
+          "filename": "S04E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Kdo ví, nepoví",
+          "url": "http://nahnoji.cz/video?id=1647",
+          "videoId": "1647",
+          "originalUrl": "http://house.sifee.biz/index.php?video=78",
+          "status": "pending",
+          "filename": "S04E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Kdopak půjde z kola ven?",
+          "url": "http://nahnoji.cz/video?id=8109",
+          "videoId": "8109",
+          "originalUrl": "http://house.sifee.biz/index.php?video=79",
+          "status": "pending",
+          "filename": "S04E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Je to báječná lež",
+          "url": "http://nahnoji.cz/video?id=8110",
+          "videoId": "8110",
+          "originalUrl": "http://house.sifee.biz/index.php?video=80",
+          "status": "pending",
+          "filename": "S04E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Někdo mrzne, někdo taje",
+          "url": "http://nahnoji.cz/video?id=8111",
+          "videoId": "8111",
+          "originalUrl": "http://house.sifee.biz/index.php?video=81",
+          "status": "pending",
+          "filename": "S04E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Nikdo se nemění",
+          "url": "http://nahnoji.cz/video?id=8112",
+          "videoId": "8112",
+          "originalUrl": "http://house.sifee.biz/index.php?video=82",
+          "status": "pending",
+          "filename": "S04E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Už nikdy více slušňák",
+          "url": "http://nahnoji.cz/video?id=8113",
+          "videoId": "8113",
+          "originalUrl": "http://house.sifee.biz/index.php?video=83",
+          "status": "pending",
+          "filename": "S04E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Splněný sen",
+          "url": "http://nahnoji.cz/video?id=1646",
+          "videoId": "1646",
+          "originalUrl": "http://house.sifee.biz/index.php?video=84",
+          "status": "pending",
+          "filename": "S04E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Houseova hlava a Wilsonovo srdce 1",
+          "url": "http://nahnoji.cz/video?id=8115",
+          "videoId": "8115",
+          "originalUrl": "http://house.sifee.biz/index.php?video=85",
+          "status": "pending",
+          "filename": "S04E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Houseova hlava a Wilsonovo srdce 2",
+          "url": "http://nahnoji.cz/video?id=8116",
+          "videoId": "8116",
+          "originalUrl": "http://house.sifee.biz/index.php?video=86",
+          "status": "pending",
+          "filename": "S04E16.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 69,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 69
+  }
+}

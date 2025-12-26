@@ -1,0 +1,1604 @@
+{
+  "showName": "Bigbangtheory",
+  "showNameCz": "Bigbangtheory",
+  "year": "",
+  "description": "Scraped from http://bigbangtheory.nikee.net",
+  "targetFolder": "bigbangtheory",
+  "source": "nahnoji.cz",
+  "originalSource": "http://bigbangtheory.nikee.net",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pilot",
+          "url": "http://nahnoji.cz/video?id=13771",
+          "videoId": "13771",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Hypotéza otrubové vlákniny",
+          "url": "http://nahnoji.cz/video?id=13772",
+          "videoId": "13772",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=2",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Korolár seržanta Sněhulky",
+          "url": "http://nahnoji.cz/video?id=11524",
+          "videoId": "11524",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=3",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Lívancová anomálie",
+          "url": "http://nahnoji.cz/video?id=11532",
+          "videoId": "11532",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=11",
+          "status": "pending",
+          "filename": "S01E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Jerusalémská dualita",
+          "url": "http://nahnoji.cz/video?id=11533",
+          "videoId": "11533",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=12",
+          "status": "pending",
+          "filename": "S01E12.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Zkáza mimoňoráje",
+          "url": "http://nahnoji.cz/video?id=11535",
+          "videoId": "11535",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=14",
+          "status": "pending",
+          "filename": "S01E14.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Mandarinkový faktor",
+          "url": "http://nahnoji.cz/video?id=11538",
+          "videoId": "11538",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=17",
+          "status": "pending",
+          "filename": "S01E17.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Paradigma zkažené ryby",
+          "url": "http://nahnoji.cz/video?id=19685",
+          "videoId": "19685",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=18",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Barbarská sublimace",
+          "url": "http://nahnoji.cz/video?id=13778",
+          "videoId": "13778",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=20",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Rozšíření o tapír Spock",
+          "url": "http://nahnoji.cz/video?id=13783",
+          "videoId": "13783",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=25",
+          "status": "pending",
+          "filename": "S02E08.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Labilita robozabijáka",
+          "url": "http://nahnoji.cz/video?id=13787",
+          "videoId": "13787",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=29",
+          "status": "pending",
+          "filename": "S02E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Algoritmus přátelství",
+          "url": "http://nahnoji.cz/video?id=13788",
+          "videoId": "13788",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=30",
+          "status": "pending",
+          "filename": "S02E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Finanční alternativy",
+          "url": "http://nahnoji.cz/video?id=19686",
+          "videoId": "19686",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=31",
+          "status": "pending",
+          "filename": "S02E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Mateřská kapacita",
+          "url": "http://nahnoji.cz/video?id=19684",
+          "videoId": "19684",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=32",
+          "status": "pending",
+          "filename": "S02E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Polštářové stigma",
+          "url": "http://nahnoji.cz/video?id=13791",
+          "videoId": "13791",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=33",
+          "status": "pending",
+          "filename": "S02E16.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Polohy mrtvé šlapky",
+          "url": "http://nahnoji.cz/video?id=13794",
+          "videoId": "13794",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=36",
+          "status": "pending",
+          "filename": "S02E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Hofstadterův izotop",
+          "url": "http://nahnoji.cz/video?id=11562",
+          "videoId": "11562",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=37",
+          "status": "pending",
+          "filename": "S02E20.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Expedice na monopol",
+          "url": "http://nahnoji.cz/video?id=11565",
+          "videoId": "11565",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=40",
+          "status": "pending",
+          "filename": "S02E23.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Fluktuace elektrického otvíráku na konzervy",
+          "url": "http://nahnoji.cz/video?id=11566",
+          "videoId": "11566",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=41",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Zesílené vzpomínky",
+          "url": "http://nahnoji.cz/video?id=11572",
+          "videoId": "11572",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=47",
+          "status": "pending",
+          "filename": "S03E07.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Porcování miláška",
+          "url": "http://nahnoji.cz/video?id=11582",
+          "videoId": "11582",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=57",
+          "status": "pending",
+          "filename": "S03E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Alternativní sundavání kalhot",
+          "url": "http://nahnoji.cz/video?id=11583",
+          "videoId": "11583",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=58",
+          "status": "pending",
+          "filename": "S03E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Wheatonova repríza",
+          "url": "http://nahnoji.cz/video?id=11584",
+          "videoId": "11584",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=59",
+          "status": "pending",
+          "filename": "S03E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Špagetový katalyzátor",
+          "url": "http://nahnoji.cz/video?id=11585",
+          "videoId": "11585",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=60",
+          "status": "pending",
+          "filename": "S03E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Plimptonovská stimulace",
+          "url": "http://nahnoji.cz/video?id=11586",
+          "videoId": "11586",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=61",
+          "status": "pending",
+          "filename": "S03E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Upotřebení schodiště",
+          "url": "http://nahnoji.cz/video?id=11587",
+          "videoId": "11587",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=62",
+          "status": "pending",
+          "filename": "S03E22.mp4"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Analýza děvkovského reflexu",
+          "url": "http://nahnoji.cz/video?id=11613",
+          "videoId": "11613",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=88",
+          "status": "pending",
+          "filename": "S05E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Hypotéza o zamoření škůdci",
+          "url": "http://nahnoji.cz/video?id=11614",
+          "videoId": "11614",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=89",
+          "status": "pending",
+          "filename": "S05E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Misinterpretace namožených slabin",
+          "url": "http://nahnoji.cz/video?id=11615",
+          "videoId": "11615",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=90",
+          "status": "pending",
+          "filename": "S05E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Relativita triviálních rozhodnutí",
+          "url": "http://nahnoji.cz/video?id=11616",
+          "videoId": "11616",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=91",
+          "status": "pending",
+          "filename": "S05E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Variace na Schrödingerovu kočku",
+          "url": "http://nahnoji.cz/video?id=11617",
+          "videoId": "11617",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=92",
+          "status": "pending",
+          "filename": "S05E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Symptomy běžného nachlazení",
+          "url": "http://nahnoji.cz/video?id=11618",
+          "videoId": "11618",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=93",
+          "status": "pending",
+          "filename": "S05E06.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Selekce hlavní družičky",
+          "url": "http://nahnoji.cz/video?id=11620",
+          "videoId": "11620",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=95",
+          "status": "pending",
+          "filename": "S05E08.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Finta se třpytivou cetkou",
+          "url": "http://nahnoji.cz/video?id=11624",
+          "videoId": "11624",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=99",
+          "status": "pending",
+          "filename": "S05E12.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Akcelerace startu",
+          "url": "http://nahnoji.cz/video?id=11635",
+          "videoId": "11635",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=110",
+          "status": "pending",
+          "filename": "S05E23.mp4"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Variabilita večera ve dvou",
+          "url": "http://nahnoji.cz/video?id=11637",
+          "videoId": "11637",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=112",
+          "status": "pending",
+          "filename": "S06E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Potenciální možnost rozchodu",
+          "url": "http://nahnoji.cz/video?id=11638",
+          "videoId": "11638",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=113",
+          "status": "pending",
+          "filename": "S06E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Poznatek o Higgsově bosonu",
+          "url": "http://nahnoji.cz/video?id=11639",
+          "videoId": "11639",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=114",
+          "status": "pending",
+          "filename": "S06E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Minimalizace dopadu návratu",
+          "url": "http://nahnoji.cz/video?id=11640",
+          "videoId": "11640",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=115",
+          "status": "pending",
+          "filename": "S06E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Holografická stimulace",
+          "url": "http://nahnoji.cz/video?id=11641",
+          "videoId": "11641",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=116",
+          "status": "pending",
+          "filename": "S06E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Výmaz pasáže",
+          "url": "http://nahnoji.cz/video?id=11642",
+          "videoId": "11642",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=117",
+          "status": "pending",
+          "filename": "S06E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Párové dilema",
+          "url": "http://nahnoji.cz/video?id=11643",
+          "videoId": "11643",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=118",
+          "status": "pending",
+          "filename": "S06E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Záhada čísla 43",
+          "url": "http://nahnoji.cz/video?id=11644",
+          "videoId": "11644",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=119",
+          "status": "pending",
+          "filename": "S06E08.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Potenciál kouzla lásky",
+          "url": "http://nahnoji.cz/video?id=11659",
+          "videoId": "11659",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=134",
+          "status": "pending",
+          "filename": "S06E23.mp4"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Season 7",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Důsledek absence Hofstadtera",
+          "url": "http://nahnoji.cz/video?id=11661",
+          "videoId": "11661",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=136",
+          "status": "pending",
+          "filename": "S07E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Verifikace podvodu",
+          "url": "http://nahnoji.cz/video?id=11662",
+          "videoId": "11662",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=137",
+          "status": "pending",
+          "filename": "S07E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Egoismus lovce pokladů",
+          "url": "http://nahnoji.cz/video?id=11663",
+          "videoId": "11663",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=138",
+          "status": "pending",
+          "filename": "S07E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Minimalizace Dobyvatelů",
+          "url": "http://nahnoji.cz/video?id=11664",
+          "videoId": "11664",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=139",
+          "status": "pending",
+          "filename": "S07E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Proximita pracoviště",
+          "url": "http://nahnoji.cz/video?id=11665",
+          "videoId": "11665",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=140",
+          "status": "pending",
+          "filename": "S07E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Ozvěny romance",
+          "url": "http://nahnoji.cz/video?id=11666",
+          "videoId": "11666",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=141",
+          "status": "pending",
+          "filename": "S07E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Výměna Protonů",
+          "url": "http://nahnoji.cz/video?id=11667",
+          "videoId": "11667",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=142",
+          "status": "pending",
+          "filename": "S07E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Simulace svědění mozku",
+          "url": "http://nahnoji.cz/video?id=11668",
+          "videoId": "11668",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=143",
+          "status": "pending",
+          "filename": "S07E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Anulace na Den díkůvzdání",
+          "url": "http://nahnoji.cz/video?id=11669",
+          "videoId": "11669",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=144",
+          "status": "pending",
+          "filename": "S07E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Vyvrácení existence objevu",
+          "url": "http://nahnoji.cz/video?id=11670",
+          "videoId": "11670",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=145",
+          "status": "pending",
+          "filename": "S07E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Cooperova extrakce",
+          "url": "http://nahnoji.cz/video?id=11671",
+          "videoId": "11671",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=146",
+          "status": "pending",
+          "filename": "S07E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Následek zaváhání",
+          "url": "http://nahnoji.cz/video?id=11672",
+          "videoId": "11672",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=147",
+          "status": "pending",
+          "filename": "S07E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Rekalibrace zaměstnání",
+          "url": "http://nahnoji.cz/video?id=11673",
+          "videoId": "11673",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=148",
+          "status": "pending",
+          "filename": "S07E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Nejasnost s konferencí",
+          "url": "http://nahnoji.cz/video?id=11674",
+          "videoId": "11674",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=149",
+          "status": "pending",
+          "filename": "S07E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Manipulace lokomotivou",
+          "url": "http://nahnoji.cz/video?id=11675",
+          "videoId": "11675",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=150",
+          "status": "pending",
+          "filename": "S07E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Manipulace jídelním stolem",
+          "url": "http://nahnoji.cz/video?id=11676",
+          "videoId": "11676",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=151",
+          "status": "pending",
+          "filename": "S07E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Turbulence přátelství",
+          "url": "http://nahnoji.cz/video?id=11677",
+          "videoId": "11677",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=152",
+          "status": "pending",
+          "filename": "S07E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Choulostivý moment překvapení",
+          "url": "http://nahnoji.cz/video?id=11678",
+          "videoId": "11678",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=153",
+          "status": "pending",
+          "filename": "S07E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Rozhodovací martyrium",
+          "url": "http://nahnoji.cz/video?id=11679",
+          "videoId": "11679",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=154",
+          "status": "pending",
+          "filename": "S07E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Tristní rozpad vztahu",
+          "url": "http://nahnoji.cz/video?id=11680",
+          "videoId": "11680",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=155",
+          "status": "pending",
+          "filename": "S07E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Tradice nepředvídatelných čtvrtků",
+          "url": "http://nahnoji.cz/video?id=11681",
+          "videoId": "11681",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=156",
+          "status": "pending",
+          "filename": "S07E21.mp4"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Season 8",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Loupež ve spacím kupé",
+          "url": "http://nahnoji.cz/video?id=11736",
+          "videoId": "11736",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=160",
+          "status": "pending",
+          "filename": "S08E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Naschvály odborného asistenta",
+          "url": "http://nahnoji.cz/video?id=11737",
+          "videoId": "11737",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=161",
+          "status": "pending",
+          "filename": "S08E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Nedostatečnost baseballové průpravy",
+          "url": "http://nahnoji.cz/video?id=11738",
+          "videoId": "11738",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=162",
+          "status": "pending",
+          "filename": "S08E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Fabulace o postelovém úletu",
+          "url": "http://nahnoji.cz/video?id=11739",
+          "videoId": "11739",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=163",
+          "status": "pending",
+          "filename": "S08E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Mučivé metody soustředění",
+          "url": "http://nahnoji.cz/video?id=11740",
+          "videoId": "11740",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=164",
+          "status": "pending",
+          "filename": "S08E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Simulace důlní expedice",
+          "url": "http://nahnoji.cz/video?id=11741",
+          "videoId": "11741",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=165",
+          "status": "pending",
+          "filename": "S08E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Mylný výklad obchodní taktiky",
+          "url": "http://nahnoji.cz/video?id=11742",
+          "videoId": "11742",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=166",
+          "status": "pending",
+          "filename": "S08E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Kompenzace maturitního plesu",
+          "url": "http://nahnoji.cz/video?id=11743",
+          "videoId": "11743",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=167",
+          "status": "pending",
+          "filename": "S08E08.mp4"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": "Season 9",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Raketový nástup pomanželské krize",
+          "url": "http://nahnoji.cz/video?id=11880",
+          "videoId": "11880",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=184",
+          "status": "pending",
+          "filename": "S09E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Oscilace kolem rozchodů",
+          "url": "http://nahnoji.cz/video?id=11881",
+          "videoId": "11881",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=185",
+          "status": "pending",
+          "filename": "S09E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Selhání vědeckých principů",
+          "url": "http://nahnoji.cz/video?id=11882",
+          "videoId": "11882",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=186",
+          "status": "pending",
+          "filename": "S09E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Aproximace roku 2003",
+          "url": "http://nahnoji.cz/video?id=11883",
+          "videoId": "11883",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=187",
+          "status": "pending",
+          "filename": "S09E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Zvyšování tělesné kondice",
+          "url": "http://nahnoji.cz/video?id=11884",
+          "videoId": "11884",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=188",
+          "status": "pending",
+          "filename": "S09E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Machinace s heliem",
+          "url": "http://nahnoji.cz/video?id=11885",
+          "videoId": "11885",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=189",
+          "status": "pending",
+          "filename": "S09E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Dozvuky Spocka",
+          "url": "http://nahnoji.cz/video?id=11886",
+          "videoId": "11886",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=190",
+          "status": "pending",
+          "filename": "S09E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Šmírování tajemného rande",
+          "url": "http://nahnoji.cz/video?id=11887",
+          "videoId": "11887",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=191",
+          "status": "pending",
+          "filename": "S09E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Vystřídání partnerských rolí",
+          "url": "http://nahnoji.cz/video?id=11888",
+          "videoId": "11888",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=192",
+          "status": "pending",
+          "filename": "S09E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Kompenzace zhrzenosti",
+          "url": "http://nahnoji.cz/video?id=11889",
+          "videoId": "11889",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=193",
+          "status": "pending",
+          "filename": "S09E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Očekávání premiérové noci",
+          "url": "http://nahnoji.cz/video?id=11890",
+          "videoId": "11890",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=194",
+          "status": "pending",
+          "filename": "S09E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Transformace obchodní schůzky",
+          "url": "http://nahnoji.cz/video?id=11891",
+          "videoId": "11891",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=195",
+          "status": "pending",
+          "filename": "S09E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Svérázné projevy empatie",
+          "url": "http://nahnoji.cz/video?id=11892",
+          "videoId": "11892",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=196",
+          "status": "pending",
+          "filename": "S09E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Přitransportování babči",
+          "url": "http://nahnoji.cz/video?id=11893",
+          "videoId": "11893",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=197",
+          "status": "pending",
+          "filename": "S09E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Valentýnské extempore",
+          "url": "http://nahnoji.cz/video?id=11894",
+          "videoId": "11894",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=198",
+          "status": "pending",
+          "filename": "S09E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Negativní reakce na pozitivní test",
+          "url": "http://nahnoji.cz/video?id=11895",
+          "videoId": "11895",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=199",
+          "status": "pending",
+          "filename": "S09E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Experimentování s oslavou",
+          "url": "http://nahnoji.cz/video?id=11896",
+          "videoId": "11896",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=200",
+          "status": "pending",
+          "filename": "S09E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Rozčarování z patentové smlouvy",
+          "url": "http://nahnoji.cz/video?id=11897",
+          "videoId": "11897",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=201",
+          "status": "pending",
+          "filename": "S09E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Zmaření plánované pomsty",
+          "url": "http://nahnoji.cz/video?id=11898",
+          "videoId": "11898",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=202",
+          "status": "pending",
+          "filename": "S09E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Paralely slzavých údolí",
+          "url": "http://nahnoji.cz/video?id=11899",
+          "videoId": "11899",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=203",
+          "status": "pending",
+          "filename": "S09E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Úskalí sendviče na party",
+          "url": "http://nahnoji.cz/video?id=11900",
+          "videoId": "11900",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=204",
+          "status": "pending",
+          "filename": "S09E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Nástrahy degustace",
+          "url": "http://nahnoji.cz/video?id=11901",
+          "videoId": "11901",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=205",
+          "status": "pending",
+          "filename": "S09E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Protest proti předbíhání ve frontě",
+          "url": "http://nahnoji.cz/video?id=11902",
+          "videoId": "11902",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=206",
+          "status": "pending",
+          "filename": "S09E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Scestný záchvat paranoie",
+          "url": "http://nahnoji.cz/video?id=11903",
+          "videoId": "11903",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=207",
+          "status": "pending",
+          "filename": "S09E24.mp4"
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "title": "Season 10",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Sonda do rodinných vazeb",
+          "url": "http://nahnoji.cz/video?id=11760",
+          "videoId": "11760",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=208",
+          "status": "pending",
+          "filename": "S10E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Miniaturizace po vojensku",
+          "url": "http://nahnoji.cz/video?id=11761",
+          "videoId": "11761",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=209",
+          "status": "pending",
+          "filename": "S10E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Pseudoproblém se závislostí",
+          "url": "http://nahnoji.cz/video?id=11762",
+          "videoId": "11762",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=210",
+          "status": "pending",
+          "filename": "S10E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Experimentování se soužitím",
+          "url": "http://nahnoji.cz/video?id=11763",
+          "videoId": "11763",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=211",
+          "status": "pending",
+          "filename": "S10E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Kontaminace vířivky",
+          "url": "http://nahnoji.cz/video?id=11764",
+          "videoId": "11764",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=212",
+          "status": "pending",
+          "filename": "S10E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Fetální kopnutí",
+          "url": "http://nahnoji.cz/video?id=11765",
+          "videoId": "11765",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=213",
+          "status": "pending",
+          "filename": "S10E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Aspekty pravdomluvnosti",
+          "url": "http://nahnoji.cz/video?id=11766",
+          "videoId": "11766",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=214",
+          "status": "pending",
+          "filename": "S10E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Inkubace mozkových buněk",
+          "url": "http://nahnoji.cz/video?id=11767",
+          "videoId": "11767",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=215",
+          "status": "pending",
+          "filename": "S10E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Zneuznaný génius",
+          "url": "http://nahnoji.cz/video?id=11768",
+          "videoId": "11768",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=216",
+          "status": "pending",
+          "filename": "S10E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Šachování se společným majetkem",
+          "url": "http://nahnoji.cz/video?id=11769",
+          "videoId": "11769",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=217",
+          "status": "pending",
+          "filename": "S10E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Synchronicita narozenin",
+          "url": "http://nahnoji.cz/video?id=11770",
+          "videoId": "11770",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=218",
+          "status": "pending",
+          "filename": "S10E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Resumé vánočních svátků",
+          "url": "http://nahnoji.cz/video?id=11771",
+          "videoId": "11771",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=219",
+          "status": "pending",
+          "filename": "S10E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Reorganizace vztahu",
+          "url": "http://nahnoji.cz/video?id=11772",
+          "videoId": "11772",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=220",
+          "status": "pending",
+          "filename": "S10E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Prototyp emočního detektoru",
+          "url": "http://nahnoji.cz/video?id=11773",
+          "videoId": "11773",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=221",
+          "status": "pending",
+          "filename": "S10E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Další manipulace lokomotivou",
+          "url": "http://nahnoji.cz/video?id=11774",
+          "videoId": "11774",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=222",
+          "status": "pending",
+          "filename": "S10E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Sublimace kapesného",
+          "url": "http://nahnoji.cz/video?id=11775",
+          "videoId": "11775",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=223",
+          "status": "pending",
+          "filename": "S10E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Šaráda s Comic-Conem",
+          "url": "http://nahnoji.cz/video?id=11776",
+          "videoId": "11776",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=224",
+          "status": "pending",
+          "filename": "S10E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Metafora s únikovým východem",
+          "url": "http://nahnoji.cz/video?id=11777",
+          "videoId": "11777",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=225",
+          "status": "pending",
+          "filename": "S10E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Fluktuace spolupráce",
+          "url": "http://nahnoji.cz/video?id=11778",
+          "videoId": "11778",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=226",
+          "status": "pending",
+          "filename": "S10E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Bezprecedentní ztráta paměti",
+          "url": "http://nahnoji.cz/video?id=11779",
+          "videoId": "11779",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=227",
+          "status": "pending",
+          "filename": "S10E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Frustrace z odloučení",
+          "url": "http://nahnoji.cz/video?id=11780",
+          "videoId": "11780",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=228",
+          "status": "pending",
+          "filename": "S10E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Akceptace nezdolatelné výzvy",
+          "url": "http://nahnoji.cz/video?id=11781",
+          "videoId": "11781",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=229",
+          "status": "pending",
+          "filename": "S10E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Konfiskace z přísně tajných důvodů",
+          "url": "http://nahnoji.cz/video?id=11782",
+          "videoId": "11782",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=230",
+          "status": "pending",
+          "filename": "S10E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Rizika vztahů na dálku",
+          "url": "http://nahnoji.cz/video?id=11783",
+          "videoId": "11783",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=231",
+          "status": "pending",
+          "filename": "S10E24.mp4"
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "title": "Season 11",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Akceptace nabídky k sňatku",
+          "url": "http://nahnoji.cz/video?id=11784",
+          "videoId": "11784",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=232",
+          "status": "pending",
+          "filename": "S11E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Nerozvážné interview",
+          "url": "http://nahnoji.cz/video?id=11785",
+          "videoId": "11785",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=233",
+          "status": "pending",
+          "filename": "S11E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Starosti s termínem svatby",
+          "url": "http://nahnoji.cz/video?id=11786",
+          "videoId": "11786",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=234",
+          "status": "pending",
+          "filename": "S11E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Účinné formy sbližování",
+          "url": "http://nahnoji.cz/video?id=11787",
+          "videoId": "11787",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=235",
+          "status": "pending",
+          "filename": "S11E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Manuál k dospělým dětem",
+          "url": "http://nahnoji.cz/video?id=11788",
+          "videoId": "11788",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=236",
+          "status": "pending",
+          "filename": "S11E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Regenerace Protonů",
+          "url": "http://nahnoji.cz/video?id=11789",
+          "videoId": "11789",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=237",
+          "status": "pending",
+          "filename": "S11E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Reputace v sázce",
+          "url": "http://nahnoji.cz/video?id=11790",
+          "videoId": "11790",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=238",
+          "status": "pending",
+          "filename": "S11E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Tesla kontra Edison",
+          "url": "http://nahnoji.cz/video?id=11791",
+          "videoId": "11791",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=239",
+          "status": "pending",
+          "filename": "S11E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Bitcoinová retrospektiva",
+          "url": "http://nahnoji.cz/video?id=11792",
+          "videoId": "11792",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=240",
+          "status": "pending",
+          "filename": "S11E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Destrukce sebedůvěry",
+          "url": "http://nahnoji.cz/video?id=11793",
+          "videoId": "11793",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=241",
+          "status": "pending",
+          "filename": "S11E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Extrémně otravná oslava",
+          "url": "http://nahnoji.cz/video?id=11794",
+          "videoId": "11794",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=242",
+          "status": "pending",
+          "filename": "S11E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Metriky svatebních rolí",
+          "url": "http://nahnoji.cz/video?id=11795",
+          "videoId": "11795",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=243",
+          "status": "pending",
+          "filename": "S11E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Vibrace strun",
+          "url": "http://nahnoji.cz/video?id=11796",
+          "videoId": "11796",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=244",
+          "status": "pending",
+          "filename": "S11E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Férové odloučení",
+          "url": "http://nahnoji.cz/video?id=11797",
+          "videoId": "11797",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=245",
+          "status": "pending",
+          "filename": "S11E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Předloha detektivního románu",
+          "url": "http://nahnoji.cz/video?id=11798",
+          "videoId": "11798",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=246",
+          "status": "pending",
+          "filename": "S11E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Úmorná kampaň",
+          "url": "http://nahnoji.cz/video?id=11799",
+          "videoId": "11799",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=247",
+          "status": "pending",
+          "filename": "S11E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Přiřčení rezervace",
+          "url": "http://nahnoji.cz/video?id=11800",
+          "videoId": "11800",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=248",
+          "status": "pending",
+          "filename": "S11E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Gatesova excitace",
+          "url": "http://nahnoji.cz/video?id=11801",
+          "videoId": "11801",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=249",
+          "status": "pending",
+          "filename": "S11E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Disociace nájemníků",
+          "url": "http://nahnoji.cz/video?id=11802",
+          "videoId": "11802",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=250",
+          "status": "pending",
+          "filename": "S11E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Potenciál izolace",
+          "url": "http://nahnoji.cz/video?id=11803",
+          "videoId": "11803",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=251",
+          "status": "pending",
+          "filename": "S11E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Polarizace komety",
+          "url": "http://nahnoji.cz/video?id=12327",
+          "videoId": "12327",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=252",
+          "status": "pending",
+          "filename": "S11E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Nedostatek finančních prostředků",
+          "url": "http://nahnoji.cz/video?id=12408",
+          "videoId": "12408",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=253",
+          "status": "pending",
+          "filename": "S11E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Urovnání vyhrocených emocí",
+          "url": "http://nahnoji.cz/video?id=12409",
+          "videoId": "12409",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=254",
+          "status": "pending",
+          "filename": "S11E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Asymetrie vázacího motýlka",
+          "url": "http://nahnoji.cz/video?id=12410",
+          "videoId": "12410",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=255",
+          "status": "pending",
+          "filename": "S11E24.mp4"
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "title": "Season 12",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Manželský kompromis",
+          "url": "http://nahnoji.cz/video?id=13073",
+          "videoId": "13073",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=256",
+          "status": "pending",
+          "filename": "S12E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Mystifikace se svatebním darem",
+          "url": "http://nahnoji.cz/video?id=16556",
+          "videoId": "16556",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=257",
+          "status": "pending",
+          "filename": "S12E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Kalkulace reprodukce",
+          "url": "http://nahnoji.cz/video?id=16557",
+          "videoId": "16557",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=258",
+          "status": "pending",
+          "filename": "S12E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Turbulence s Tamem",
+          "url": "http://nahnoji.cz/video?id=16558",
+          "videoId": "16558",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=259",
+          "status": "pending",
+          "filename": "S12E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Planetární kolize",
+          "url": "http://nahnoji.cz/video?id=16559",
+          "videoId": "16559",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=260",
+          "status": "pending",
+          "filename": "S12E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Odveta za imitaci",
+          "url": "http://nahnoji.cz/video?id=16560",
+          "videoId": "16560",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=261",
+          "status": "pending",
+          "filename": "S12E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Odklon finančních prostředků",
+          "url": "http://nahnoji.cz/video?id=13198",
+          "videoId": "13198",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=262",
+          "status": "pending",
+          "filename": "S12E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Kulminace první noci",
+          "url": "http://nahnoji.cz/video?id=16561",
+          "videoId": "16561",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=263",
+          "status": "pending",
+          "filename": "S12E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Frustrace z citace",
+          "url": "http://nahnoji.cz/video?id=13200",
+          "videoId": "13200",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=264",
+          "status": "pending",
+          "filename": "S12E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "VHS reminiscence",
+          "url": "http://nahnoji.cz/video?id=16562",
+          "videoId": "16562",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=265",
+          "status": "pending",
+          "filename": "S12E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Rozhádaný paintball",
+          "url": "http://nahnoji.cz/video?id=13443",
+          "videoId": "13443",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=266",
+          "status": "pending",
+          "filename": "S12E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Skandální návrh",
+          "url": "http://nahnoji.cz/video?id=16563",
+          "videoId": "16563",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=267",
+          "status": "pending",
+          "filename": "S12E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Radikální stanovisko",
+          "url": "http://nahnoji.cz/video?id=13445",
+          "videoId": "13445",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=268",
+          "status": "pending",
+          "filename": "S12E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Porcování meteoritu",
+          "url": "http://nahnoji.cz/video?id=16564",
+          "videoId": "16564",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=269",
+          "status": "pending",
+          "filename": "S12E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Revokace darování",
+          "url": "http://nahnoji.cz/video?id=16565",
+          "videoId": "16565",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=270",
+          "status": "pending",
+          "filename": "S12E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Hraní s celebritami",
+          "url": "http://nahnoji.cz/video?id=16566",
+          "videoId": "16566",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=271",
+          "status": "pending",
+          "filename": "S12E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Nástrahy konkurence",
+          "url": "http://nahnoji.cz/video?id=16567",
+          "videoId": "16567",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=272",
+          "status": "pending",
+          "filename": "S12E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Akumulace laureátů",
+          "url": "http://nahnoji.cz/video?id=13450",
+          "videoId": "13450",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=273",
+          "status": "pending",
+          "filename": "S12E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Senzorická deprivace",
+          "url": "http://nahnoji.cz/video?id=16568",
+          "videoId": "16568",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=274",
+          "status": "pending",
+          "filename": "S12E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Definice postačování",
+          "url": "http://nahnoji.cz/video?id=13452",
+          "videoId": "13452",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=275",
+          "status": "pending",
+          "filename": "S12E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Plagiátorské schizma",
+          "url": "http://nahnoji.cz/video?id=16575",
+          "videoId": "16575",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=276",
+          "status": "pending",
+          "filename": "S12E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Mateřská peripetie",
+          "url": "http://nahnoji.cz/video?id=16576",
+          "videoId": "16576",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=277",
+          "status": "pending",
+          "filename": "S12E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Proměnlivá konstanta",
+          "url": "http://nahnoji.cz/video?id=13455",
+          "videoId": "13455",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=278",
+          "status": "pending",
+          "filename": "S12E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Stockholmský syndrom",
+          "url": "http://nahnoji.cz/video?id=16577",
+          "videoId": "16577",
+          "originalUrl": "http://bigbangtheory.nikee.net/index.php?video=279",
+          "status": "pending",
+          "filename": "S12E24.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 169,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 169
+  }
+}

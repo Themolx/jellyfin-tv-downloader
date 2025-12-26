@@ -1,0 +1,467 @@
+{
+  "showName": "Siliconvalley",
+  "showNameCz": "Siliconvalley",
+  "year": "",
+  "description": "Scraped from http://siliconvalley.sifee.biz",
+  "targetFolder": "siliconvalley",
+  "source": "nahnoji.cz",
+  "originalSource": "http://siliconvalley.sifee.biz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Produkt pro širokou veřejnost",
+          "url": "http://nahnoji.cz/video?id=10432",
+          "videoId": "10432",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Podílníci",
+          "url": "http://nahnoji.cz/video?id=10433",
+          "videoId": "10433",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=13",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Zakladatelská listina",
+          "url": "http://nahnoji.cz/video?id=10434",
+          "videoId": "10434",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=14",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Složení představenstva",
+          "url": "http://nahnoji.cz/video?id=10435",
+          "videoId": "10435",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=15",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Střet zájmů",
+          "url": "http://nahnoji.cz/video?id=10436",
+          "videoId": "10436",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=16",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Externí konzultant",
+          "url": "http://nahnoji.cz/video?id=10437",
+          "videoId": "10437",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=17",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Test v praxi",
+          "url": "http://nahnoji.cz/video?id=10438",
+          "videoId": "10438",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=18",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Možnost optimálního výkonu",
+          "url": "http://nahnoji.cz/video?id=10439",
+          "videoId": "10439",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=19",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Změna strategie",
+          "url": "http://nahnoji.cz/video?id=10440",
+          "videoId": "10440",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=20",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Rapidní pokles zájmu",
+          "url": "http://nahnoji.cz/video?id=10441",
+          "videoId": "10441",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=21",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Pochybný investor",
+          "url": "http://nahnoji.cz/video?id=10442",
+          "videoId": "10442",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=22",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Ženské problémy",
+          "url": "http://nahnoji.cz/video?id=10443",
+          "videoId": "10443",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=23",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Servery",
+          "url": "http://nahnoji.cz/video?id=10444",
+          "videoId": "10444",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=24",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Zabiják",
+          "url": "http://nahnoji.cz/video?id=10445",
+          "videoId": "10445",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=25",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Tvrdé odvětví",
+          "url": "http://nahnoji.cz/video?id=10446",
+          "videoId": "10446",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=26",
+          "status": "pending",
+          "filename": "S02E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Hackeři",
+          "url": "http://nahnoji.cz/video?id=10447",
+          "videoId": "10447",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=27",
+          "status": "pending",
+          "filename": "S02E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Rozhodčí řízení",
+          "url": "http://nahnoji.cz/video?id=10448",
+          "videoId": "10448",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=28",
+          "status": "pending",
+          "filename": "S02E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Dva dny kondora",
+          "url": "http://nahnoji.cz/video?id=10449",
+          "videoId": "10449",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=29",
+          "status": "pending",
+          "filename": "S02E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Vliv a práva zakladatelů",
+          "url": "http://nahnoji.cz/video?id=10465",
+          "videoId": "10465",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=30",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Rozkol v zaměření",
+          "url": "http://nahnoji.cz/video?id=10466",
+          "videoId": "10466",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=31",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Meinertzhagenova brašna",
+          "url": "http://nahnoji.cz/video?id=10467",
+          "videoId": "10467",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=32",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Řešení datového úložiště_p2.jpg",
+          "url": "http://nahnoji.cz/video?id=10468",
+          "videoId": "10468",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=33",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Prázdné křeslo",
+          "url": "http://nahnoji.cz/video?id=10469",
+          "videoId": "10469",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=34",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Terabity Bachmanity",
+          "url": "http://nahnoji.cz/video?id=10470",
+          "videoId": "10470",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=35",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Honba za lepší betou",
+          "url": "http://nahnoji.cz/video?id=10471",
+          "videoId": "10471",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=36",
+          "status": "pending",
+          "filename": "S03E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Převod podílu",
+          "url": "http://nahnoji.cz/video?id=10472",
+          "videoId": "10472",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=37",
+          "status": "pending",
+          "filename": "S03E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Denní aktivní uživatelé",
+          "url": "http://nahnoji.cz/video?id=10473",
+          "videoId": "10473",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=38",
+          "status": "pending",
+          "filename": "S03E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Výkyv",
+          "url": "http://nahnoji.cz/video?id=10474",
+          "videoId": "10474",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=39",
+          "status": "pending",
+          "filename": "S03E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Krize úspěchu",
+          "url": "http://nahnoji.cz/video?id=12411",
+          "videoId": "12411",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=40",
+          "status": "pending",
+          "filename": "S04E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Podmínky užívání",
+          "url": "http://nahnoji.cz/video?id=12412",
+          "videoId": "12412",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=41",
+          "status": "pending",
+          "filename": "S04E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Duševní vlastnictví",
+          "url": "http://nahnoji.cz/video?id=12413",
+          "videoId": "12413",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=42",
+          "status": "pending",
+          "filename": "S04E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Teambuilding",
+          "url": "http://nahnoji.cz/video?id=12414",
+          "videoId": "12414",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=43",
+          "status": "pending",
+          "filename": "S04E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Transfuzák",
+          "url": "http://nahnoji.cz/video?id=12415",
+          "videoId": "12415",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=44",
+          "status": "pending",
+          "filename": "S04E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Zákaznický servis",
+          "url": "http://nahnoji.cz/video?id=12416",
+          "videoId": "12416",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=45",
+          "status": "pending",
+          "filename": "S04E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Patentový trol",
+          "url": "http://nahnoji.cz/video?id=12417",
+          "videoId": "12417",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=46",
+          "status": "pending",
+          "filename": "S04E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Keenan Vortex",
+          "url": "http://nahnoji.cz/video?id=12418",
+          "videoId": "12418",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=47",
+          "status": "pending",
+          "filename": "S04E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Hooli-Con",
+          "url": "http://nahnoji.cz/video?id=12419",
+          "videoId": "12419",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=48",
+          "status": "pending",
+          "filename": "S04E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Chyba serveru",
+          "url": "http://nahnoji.cz/video?id=12420",
+          "videoId": "12420",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=49",
+          "status": "pending",
+          "filename": "S04E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Rychlý růst, či pomalá smrt",
+          "url": "http://nahnoji.cz/video?id=13380",
+          "videoId": "13380",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=50",
+          "status": "pending",
+          "filename": "S05E01.mp4"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Umělý nedostatek inteligence",
+          "url": "http://nahnoji.cz/video?id=15598",
+          "videoId": "15598",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=58",
+          "status": "pending",
+          "filename": "S06E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Krvavé peníze",
+          "url": "http://nahnoji.cz/video?id=15599",
+          "videoId": "15599",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=59",
+          "status": "pending",
+          "filename": "S06E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Překvapení od Hooli",
+          "url": "http://nahnoji.cz/video?id=15600",
+          "videoId": "15600",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=60",
+          "status": "pending",
+          "filename": "S06E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Maximalizace Vůdcovství",
+          "url": "http://nahnoji.cz/video?id=15601",
+          "videoId": "15601",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=61",
+          "status": "pending",
+          "filename": "S06E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Tethics",
+          "url": "http://nahnoji.cz/video?id=15602",
+          "videoId": "15602",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=62",
+          "status": "pending",
+          "filename": "S06E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "RussFest",
+          "url": "http://nahnoji.cz/video?id=15603",
+          "videoId": "15603",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=63",
+          "status": "pending",
+          "filename": "S06E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Úniková událost",
+          "url": "http://nahnoji.cz/video?id=15604",
+          "videoId": "15604",
+          "originalUrl": "http://siliconvalley.sifee.biz/index.php?video=64",
+          "status": "pending",
+          "filename": "S06E07.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 46,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 46
+  }
+}

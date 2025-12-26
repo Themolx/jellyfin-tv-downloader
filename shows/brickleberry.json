@@ -1,0 +1,359 @@
+{
+  "showName": "Brickleberry",
+  "showNameCz": "Brickleberry",
+  "year": "",
+  "description": "Scraped from http://brickleberry.sifee.biz",
+  "targetFolder": "brickleberry",
+  "source": "nahnoji.cz",
+  "originalSource": "http://brickleberry.sifee.biz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Vítejte v Brickleberry",
+          "url": "http://nahnoji.cz/video?id=10671",
+          "videoId": "10671",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Dvoutýdenní lhůta",
+          "url": "http://nahnoji.cz/video?id=10672",
+          "videoId": "10672",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=32",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Zachráněni koulemi",
+          "url": "http://nahnoji.cz/video?id=10673",
+          "videoId": "10673",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=33",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Veverlík",
+          "url": "http://nahnoji.cz/video?id=10674",
+          "videoId": "10674",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=34",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Úprk",
+          "url": "http://nahnoji.cz/video?id=10675",
+          "videoId": "10675",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=35",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Teplá bomba",
+          "url": "http://nahnoji.cz/video?id=10678",
+          "videoId": "10678",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=36",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Ahoj Dottie",
+          "url": "http://nahnoji.cz/video?id=10679",
+          "videoId": "10679",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=37",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Stevova pleš",
+          "url": "http://nahnoji.cz/video?id=10680",
+          "videoId": "10680",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=38",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Starosti s tátou",
+          "url": "http://nahnoji.cz/video?id=10681",
+          "videoId": "10681",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=39",
+          "status": "pending",
+          "filename": "S01E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Show u přehrady",
+          "url": "http://nahnoji.cz/video?id=10682",
+          "videoId": "10682",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=40",
+          "status": "pending",
+          "filename": "S01E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Zázračné jezero",
+          "url": "http://nahnoji.cz/video?id=10683",
+          "videoId": "10683",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=41",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Návrat na scénu",
+          "url": "http://nahnoji.cz/video?id=10684",
+          "videoId": "10684",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=42",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Woodyho děvče",
+          "url": "http://nahnoji.cz/video?id=10685",
+          "videoId": "10685",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=43",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Autokemp",
+          "url": "http://nahnoji.cz/video?id=10686",
+          "videoId": "10686",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=44",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Kriplberry",
+          "url": "http://nahnoji.cz/video?id=10687",
+          "videoId": "10687",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=45",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Rangerské hry",
+          "url": "http://nahnoji.cz/video?id=10688",
+          "videoId": "10688",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=46",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Má cesta nebo dálnice",
+          "url": "http://nahnoji.cz/video?id=10689",
+          "videoId": "10689",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=47",
+          "status": "pending",
+          "filename": "S02E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Chlapeček Malloy",
+          "url": "http://nahnoji.cz/video?id=10690",
+          "videoId": "10690",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=48",
+          "status": "pending",
+          "filename": "S02E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Stávka zvířat",
+          "url": "http://nahnoji.cz/video?id=10691",
+          "videoId": "10691",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=49",
+          "status": "pending",
+          "filename": "S02E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Vystrašen slušňáky",
+          "url": "http://nahnoji.cz/video?id=10692",
+          "videoId": "10692",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=50",
+          "status": "pending",
+          "filename": "S02E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Cesta na Mars",
+          "url": "http://nahnoji.cz/video?id=10693",
+          "videoId": "10693",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=51",
+          "status": "pending",
+          "filename": "S02E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Můj oblíbený medvěd",
+          "url": "http://nahnoji.cz/video?id=10694",
+          "videoId": "10694",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=52",
+          "status": "pending",
+          "filename": "S02E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Aparkolypsa",
+          "url": "http://nahnoji.cz/video?id=10695",
+          "videoId": "10695",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=53",
+          "status": "pending",
+          "filename": "S02E13.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "ObamaScare",
+          "url": "http://nahnoji.cz/video?id=10696",
+          "videoId": "10696",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=54",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "In Da Club",
+          "url": "http://nahnoji.cz/video?id=10697",
+          "videoId": "10697",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=55",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Miss Národní park",
+          "url": "http://nahnoji.cz/video?id=10698",
+          "videoId": "10698",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=56",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Já jsem teď tvůj taťka",
+          "url": "http://nahnoji.cz/video?id=10699",
+          "videoId": "10699",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=57",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "První GayCountry hudebník",
+          "url": "http://nahnoji.cz/video?id=10700",
+          "videoId": "10700",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=58",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Staré rány",
+          "url": "http://nahnoji.cz/video?id=10701",
+          "videoId": "10701",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=59",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Těhotnej Steve",
+          "url": "http://nahnoji.cz/video?id=10702",
+          "videoId": "10702",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=60",
+          "status": "pending",
+          "filename": "S03E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Odvážný pilot Steve",
+          "url": "http://nahnoji.cz/video?id=10703",
+          "videoId": "10703",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=61",
+          "status": "pending",
+          "filename": "S03E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Vážná rizika",
+          "url": "http://nahnoji.cz/video?id=10704",
+          "videoId": "10704",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=62",
+          "status": "pending",
+          "filename": "S03E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Bacha Ambra",
+          "url": "http://nahnoji.cz/video?id=10705",
+          "videoId": "10705",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=63",
+          "status": "pending",
+          "filename": "S03E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Poldové a zadky",
+          "url": "http://nahnoji.cz/video?id=10706",
+          "videoId": "10706",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=64",
+          "status": "pending",
+          "filename": "S03E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Táboření není sranda",
+          "url": "http://nahnoji.cz/video?id=10707",
+          "videoId": "10707",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=65",
+          "status": "pending",
+          "filename": "S03E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Globální varování",
+          "url": "http://nahnoji.cz/video?id=10708",
+          "videoId": "10708",
+          "originalUrl": "http://brickleberry.sifee.biz/index.php?video=66",
+          "status": "pending",
+          "filename": "S03E13.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 36,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 36
+  }
+}

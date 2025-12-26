@@ -1,0 +1,1319 @@
+{
+  "showName": "Futurama",
+  "showNameCz": "Futurama",
+  "year": "",
+  "description": "Scraped from http://futurama.nikee.net",
+  "targetFolder": "futurama",
+  "source": "nahnoji.cz",
+  "originalSource": "http://futurama.nikee.net",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Vesmírný pilot 3000",
+          "url": "http://nahnoji.cz/video?id=10930",
+          "videoId": "10930",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Na Měsíc a dál",
+          "url": "http://nahnoji.cz/video?id=10931",
+          "videoId": "10931",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=2",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Nejlepší přítel robota",
+          "url": "http://nahnoji.cz/video?id=10932",
+          "videoId": "10932",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=3",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Marná vesmírné lásky snaha",
+          "url": "http://nahnoji.cz/video?id=10933",
+          "videoId": "10933",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=4",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Útěk z Planety robotů",
+          "url": "http://nahnoji.cz/video?id=10934",
+          "videoId": "10934",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=5",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Konzerva za všechny prachy",
+          "url": "http://nahnoji.cz/video?id=10935",
+          "videoId": "10935",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=6",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Má tři slunce",
+          "url": "http://nahnoji.cz/video?id=10936",
+          "videoId": "10936",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=7",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Drtivý odpad",
+          "url": "http://nahnoji.cz/video?id=10937",
+          "videoId": "10937",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=8",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Peklo jsou ti druzí roboti",
+          "url": "http://nahnoji.cz/video?id=10938",
+          "videoId": "10938",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=9",
+          "status": "pending",
+          "filename": "S01E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Zkáza Titaniku",
+          "url": "http://nahnoji.cz/video?id=10939",
+          "videoId": "10939",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=10",
+          "status": "pending",
+          "filename": "S01E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Marťanská univerzita",
+          "url": "http://nahnoji.cz/video?id=10940",
+          "videoId": "10940",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=11",
+          "status": "pending",
+          "filename": "S01E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Den závislosti",
+          "url": "http://nahnoji.cz/video?id=10941",
+          "videoId": "10941",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=12",
+          "status": "pending",
+          "filename": "S01E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Fry a továrna na Slurm",
+          "url": "http://nahnoji.cz/video?id=10942",
+          "videoId": "10942",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=13",
+          "status": "pending",
+          "filename": "S01E13.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Citové pouto",
+          "url": "http://nahnoji.cz/video?id=10943",
+          "videoId": "10943",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=14",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Brannigan vrací úder",
+          "url": "http://nahnoji.cz/video?id=10944",
+          "videoId": "10944",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=15",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Do voleb hlava nehlava",
+          "url": "http://nahnoji.cz/video?id=10945",
+          "videoId": "10945",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=16",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "První společné V.V. ce",
+          "url": "http://nahnoji.cz/video?id=10946",
+          "videoId": "10946",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=17",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Zamilovaný korýš",
+          "url": "http://nahnoji.cz/video?id=10947",
+          "videoId": "10947",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=18",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "To menší zlo",
+          "url": "http://nahnoji.cz/video?id=10948",
+          "videoId": "10948",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=19",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Mám tě po krk",
+          "url": "http://nahnoji.cz/video?id=10949",
+          "videoId": "10949",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=20",
+          "status": "pending",
+          "filename": "S02E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Zuřící Bender",
+          "url": "http://nahnoji.cz/video?id=10950",
+          "videoId": "10950",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=21",
+          "status": "pending",
+          "filename": "S02E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "O původu kyklopů",
+          "url": "http://nahnoji.cz/video?id=10951",
+          "videoId": "10951",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=22",
+          "status": "pending",
+          "filename": "S02E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "To je on, můj klon",
+          "url": "http://nahnoji.cz/video?id=10952",
+          "videoId": "10952",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=23",
+          "status": "pending",
+          "filename": "S02E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Ve spárech byrokracie",
+          "url": "http://nahnoji.cz/video?id=10953",
+          "videoId": "10953",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=24",
+          "status": "pending",
+          "filename": "S02E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Bájné město Atlanta",
+          "url": "http://nahnoji.cz/video?id=10954",
+          "videoId": "10954",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=25",
+          "status": "pending",
+          "filename": "S02E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Mafián Bender",
+          "url": "http://nahnoji.cz/video?id=10955",
+          "videoId": "10955",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=26",
+          "status": "pending",
+          "filename": "S02E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Den Matky",
+          "url": "http://nahnoji.cz/video?id=10956",
+          "videoId": "10956",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=27",
+          "status": "pending",
+          "filename": "S02E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Trable s poplíky",
+          "url": "http://nahnoji.cz/video?id=10957",
+          "videoId": "10957",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=28",
+          "status": "pending",
+          "filename": "S02E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Krajně mezní příběhy",
+          "url": "http://nahnoji.cz/video?id=10958",
+          "videoId": "10958",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=29",
+          "status": "pending",
+          "filename": "S02E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Zachraňte vojína Bendera",
+          "url": "http://nahnoji.cz/video?id=10959",
+          "videoId": "10959",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=30",
+          "status": "pending",
+          "filename": "S02E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Kvílení autodlaků",
+          "url": "http://nahnoji.cz/video?id=10960",
+          "videoId": "10960",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=31",
+          "status": "pending",
+          "filename": "S02E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Jak ztratit holku za 1000 let",
+          "url": "http://nahnoji.cz/video?id=10961",
+          "videoId": "10961",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=32",
+          "status": "pending",
+          "filename": "S02E19.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Amazonky to chtějí taky",
+          "url": "http://nahnoji.cz/video?id=10962",
+          "videoId": "10962",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=33",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Vyhnání z Frye",
+          "url": "http://nahnoji.cz/video?id=10963",
+          "videoId": "10963",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=34",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Dva Santové tankují super",
+          "url": "http://nahnoji.cz/video?id=10964",
+          "videoId": "10964",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=35",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Víc neštěstí, než rozumu",
+          "url": "http://nahnoji.cz/video?id=10965",
+          "videoId": "10965",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=36",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Bender mezi tučňáky",
+          "url": "http://nahnoji.cz/video?id=10966",
+          "videoId": "10966",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=37",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Láska Benderovská",
+          "url": "http://nahnoji.cz/video?id=10967",
+          "videoId": "10967",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=38",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Tahle Země není pro blbý",
+          "url": "http://nahnoji.cz/video?id=10968",
+          "videoId": "10968",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=39",
+          "status": "pending",
+          "filename": "S03E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Humrův humor",
+          "url": "http://nahnoji.cz/video?id=10969",
+          "videoId": "10969",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=40",
+          "status": "pending",
+          "filename": "S03E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Tucet sirotků",
+          "url": "http://nahnoji.cz/video?id=10970",
+          "videoId": "10970",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=41",
+          "status": "pending",
+          "filename": "S03E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Pod kopyty bugolů",
+          "url": "http://nahnoji.cz/video?id=10971",
+          "videoId": "10971",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=42",
+          "status": "pending",
+          "filename": "S03E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Roboti musejí být šílení",
+          "url": "http://nahnoji.cz/video?id=10972",
+          "videoId": "10972",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=43",
+          "status": "pending",
+          "filename": "S03E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Juniorské mistrovství zla",
+          "url": "http://nahnoji.cz/video?id=10973",
+          "videoId": "10973",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=44",
+          "status": "pending",
+          "filename": "S03E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Zpívání všechny chmury nahání",
+          "url": "http://nahnoji.cz/video?id=10974",
+          "videoId": "10974",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=45",
+          "status": "pending",
+          "filename": "S03E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Tak skáče čas",
+          "url": "http://nahnoji.cz/video?id=10975",
+          "videoId": "10975",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=46",
+          "status": "pending",
+          "filename": "S03E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Nebezpečné robo-známosti",
+          "url": "http://nahnoji.cz/video?id=18196",
+          "videoId": "18196",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=47",
+          "status": "pending",
+          "filename": "S03E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Liga výjimečných břídilů",
+          "url": "http://nahnoji.cz/video?id=10977",
+          "videoId": "10977",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=48",
+          "status": "pending",
+          "filename": "S03E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Pracant egyptský",
+          "url": "http://nahnoji.cz/video?id=10978",
+          "videoId": "10978",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=49",
+          "status": "pending",
+          "filename": "S03E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Krajně mezní příběhy II",
+          "url": "http://nahnoji.cz/video?id=10979",
+          "videoId": "10979",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=50",
+          "status": "pending",
+          "filename": "S03E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Rozval Roswell",
+          "url": "http://nahnoji.cz/video?id=10980",
+          "videoId": "10980",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=51",
+          "status": "pending",
+          "filename": "S03E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Božský Bender",
+          "url": "http://nahnoji.cz/video?id=10981",
+          "videoId": "10981",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=52",
+          "status": "pending",
+          "filename": "S03E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Burza bezcenných papírů",
+          "url": "http://nahnoji.cz/video?id=10982",
+          "videoId": "10982",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=53",
+          "status": "pending",
+          "filename": "S03E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Železný kuchař",
+          "url": "http://nahnoji.cz/video?id=10983",
+          "videoId": "10983",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=54",
+          "status": "pending",
+          "filename": "S03E22.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Zbouchnutej",
+          "url": "http://nahnoji.cz/video?id=10984",
+          "videoId": "10984",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=55",
+          "status": "pending",
+          "filename": "S04E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "O původu Leely",
+          "url": "http://nahnoji.cz/video?id=10985",
+          "videoId": "10985",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=56",
+          "status": "pending",
+          "filename": "S04E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Valentýnská odysea",
+          "url": "http://nahnoji.cz/video?id=10986",
+          "videoId": "10986",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=57",
+          "status": "pending",
+          "filename": "S04E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Temný raubíř",
+          "url": "http://nahnoji.cz/video?id=10987",
+          "videoId": "10987",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=58",
+          "status": "pending",
+          "filename": "S04E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Jak chutná svoboda",
+          "url": "http://nahnoji.cz/video?id=10988",
+          "videoId": "10988",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=59",
+          "status": "pending",
+          "filename": "S04E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Bendera by měli v televizi zakázat",
+          "url": "http://nahnoji.cz/video?id=10989",
+          "videoId": "10989",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=60",
+          "status": "pending",
+          "filename": "S04E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Čtyři z rakety a pes",
+          "url": "http://nahnoji.cz/video?id=10990",
+          "videoId": "10990",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=61",
+          "status": "pending",
+          "filename": "S04E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Nikdo to rád horké",
+          "url": "http://nahnoji.cz/video?id=10991",
+          "videoId": "10991",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=62",
+          "status": "pending",
+          "filename": "S04E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Leela běží o životy",
+          "url": "http://nahnoji.cz/video?id=10992",
+          "videoId": "10992",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=63",
+          "status": "pending",
+          "filename": "S04E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Fryův smysl života",
+          "url": "http://nahnoji.cz/video?id=10993",
+          "videoId": "10993",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=64",
+          "status": "pending",
+          "filename": "S04E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Kam se dosud žádný fanoušek nevydal",
+          "url": "http://nahnoji.cz/video?id=10994",
+          "videoId": "10994",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=65",
+          "status": "pending",
+          "filename": "S04E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Žihadlo",
+          "url": "http://nahnoji.cz/video?id=10995",
+          "videoId": "10995",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=66",
+          "status": "pending",
+          "filename": "S04E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Benderové nepláčou",
+          "url": "http://nahnoji.cz/video?id=10996",
+          "videoId": "10996",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=67",
+          "status": "pending",
+          "filename": "S04E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Ztraceno v upgradu",
+          "url": "http://nahnoji.cz/video?id=10997",
+          "videoId": "10997",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=68",
+          "status": "pending",
+          "filename": "S04E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Krabice do neznáma",
+          "url": "http://nahnoji.cz/video?id=10998",
+          "videoId": "10998",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=69",
+          "status": "pending",
+          "filename": "S04E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Tři sta babek",
+          "url": "http://nahnoji.cz/video?id=10999",
+          "videoId": "10999",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=70",
+          "status": "pending",
+          "filename": "S04E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Afryodisiakum",
+          "url": "http://nahnoji.cz/video?id=11000",
+          "videoId": "11000",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=71",
+          "status": "pending",
+          "filename": "S04E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Smlouva s Roboďáblem",
+          "url": "http://nahnoji.cz/video?id=11001",
+          "videoId": "11001",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=72",
+          "status": "pending",
+          "filename": "S04E18.mp4"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Benderovo Parádní Terno I",
+          "url": "http://nahnoji.cz/video?id=11002",
+          "videoId": "11002",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=73",
+          "status": "pending",
+          "filename": "S05E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Benderovo Parádní Terno II",
+          "url": "http://nahnoji.cz/video?id=11003",
+          "videoId": "11003",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=74",
+          "status": "pending",
+          "filename": "S05E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Benderovo Parádní Terno III",
+          "url": "http://nahnoji.cz/video?id=11004",
+          "videoId": "11004",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=75",
+          "status": "pending",
+          "filename": "S05E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Benderovo Parádní Terno IV",
+          "url": "http://nahnoji.cz/video?id=11005",
+          "videoId": "11005",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=76",
+          "status": "pending",
+          "filename": "S05E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Milion a jedno chapadlo I",
+          "url": "http://nahnoji.cz/video?id=11006",
+          "videoId": "11006",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=77",
+          "status": "pending",
+          "filename": "S05E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Milion a jedno chapadlo II",
+          "url": "http://nahnoji.cz/video?id=11007",
+          "videoId": "11007",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=78",
+          "status": "pending",
+          "filename": "S05E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Milion a jedno chapadlo III",
+          "url": "http://nahnoji.cz/video?id=11008",
+          "videoId": "11008",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=79",
+          "status": "pending",
+          "filename": "S05E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Milion a jedno chapadlo IV",
+          "url": "http://nahnoji.cz/video?id=11009",
+          "videoId": "11009",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=80",
+          "status": "pending",
+          "filename": "S05E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Benderova hra I",
+          "url": "http://nahnoji.cz/video?id=11010",
+          "videoId": "11010",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=81",
+          "status": "pending",
+          "filename": "S05E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Benderova hra II",
+          "url": "http://nahnoji.cz/video?id=11011",
+          "videoId": "11011",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=82",
+          "status": "pending",
+          "filename": "S05E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Benderova hra III",
+          "url": "http://nahnoji.cz/video?id=11012",
+          "videoId": "11012",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=83",
+          "status": "pending",
+          "filename": "S05E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Benderova hra IV",
+          "url": "http://nahnoji.cz/video?id=11013",
+          "videoId": "11013",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=84",
+          "status": "pending",
+          "filename": "S05E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Fialový trpaslík I",
+          "url": "http://nahnoji.cz/video?id=11014",
+          "videoId": "11014",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=85",
+          "status": "pending",
+          "filename": "S05E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Fialový trpaslík II",
+          "url": "http://nahnoji.cz/video?id=11015",
+          "videoId": "11015",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=86",
+          "status": "pending",
+          "filename": "S05E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Fialový trpaslík III",
+          "url": "http://nahnoji.cz/video?id=11016",
+          "videoId": "11016",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=87",
+          "status": "pending",
+          "filename": "S05E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Fialový trpaslík IV",
+          "url": "http://nahnoji.cz/video?id=11017",
+          "videoId": "11017",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=88",
+          "status": "pending",
+          "filename": "S05E16.mp4"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Znovuzrození",
+          "url": "http://nahnoji.cz/video?id=11018",
+          "videoId": "11018",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=89",
+          "status": "pending",
+          "filename": "S06E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Adam a Leela",
+          "url": "http://nahnoji.cz/video?id=11019",
+          "videoId": "11019",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=90",
+          "status": "pending",
+          "filename": "S06E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Krutá aplikace",
+          "url": "http://nahnoji.cz/video?id=11020",
+          "videoId": "11020",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=91",
+          "status": "pending",
+          "filename": "S06E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Návrh nekonečno",
+          "url": "http://nahnoji.cz/video?id=11021",
+          "videoId": "11021",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=92",
+          "status": "pending",
+          "filename": "S06E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Šifra Mistra Blbonarda",
+          "url": "http://nahnoji.cz/video?id=11022",
+          "videoId": "11022",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=93",
+          "status": "pending",
+          "filename": "S06E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Číslo 5 nežije",
+          "url": "http://nahnoji.cz/video?id=11023",
+          "videoId": "11023",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=94",
+          "status": "pending",
+          "filename": "S06E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Lepší Později Než Pozdě",
+          "url": "http://nahnoji.cz/video?id=11024",
+          "videoId": "11024",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=95",
+          "status": "pending",
+          "filename": "S06E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Černý Diblík a bílý kocour",
+          "url": "http://nahnoji.cz/video?id=11025",
+          "videoId": "11025",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=96",
+          "status": "pending",
+          "filename": "S06E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Přírobověda",
+          "url": "http://nahnoji.cz/video?id=11026",
+          "videoId": "11026",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=97",
+          "status": "pending",
+          "filename": "S06E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Tělo Mého Přítele",
+          "url": "http://nahnoji.cz/video?id=11027",
+          "videoId": "11027",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=98",
+          "status": "pending",
+          "filename": "S06E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Ndndesmiřitelné Lrrrozdíly",
+          "url": "http://nahnoji.cz/video?id=11028",
+          "videoId": "11028",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=99",
+          "status": "pending",
+          "filename": "S06E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Mutanti se bouří",
+          "url": "http://nahnoji.cz/video?id=11029",
+          "videoId": "11029",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=100",
+          "status": "pending",
+          "filename": "S06E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Sváteční Spektákl",
+          "url": "http://nahnoji.cz/video?id=11030",
+          "videoId": "11030",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=101",
+          "status": "pending",
+          "filename": "S06E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Neutopie",
+          "url": "http://nahnoji.cz/video?id=11031",
+          "videoId": "11031",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=102",
+          "status": "pending",
+          "filename": "S06E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Benderama",
+          "url": "http://nahnoji.cz/video?id=11032",
+          "videoId": "11032",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=103",
+          "status": "pending",
+          "filename": "S06E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Krotitelé roboduchů",
+          "url": "http://nahnoji.cz/video?id=11033",
+          "videoId": "11033",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=104",
+          "status": "pending",
+          "filename": "S06E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Fryority report",
+          "url": "http://nahnoji.cz/video?id=11034",
+          "videoId": "11034",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=105",
+          "status": "pending",
+          "filename": "S06E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Mlčení cvakátek",
+          "url": "http://nahnoji.cz/video?id=11035",
+          "videoId": "11035",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=106",
+          "status": "pending",
+          "filename": "S06E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Malý kabelový kabaret",
+          "url": "http://nahnoji.cz/video?id=11036",
+          "videoId": "11036",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=107",
+          "status": "pending",
+          "filename": "S06E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Čest rodiny Farnsworthů",
+          "url": "http://nahnoji.cz/video?id=11037",
+          "videoId": "11037",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=108",
+          "status": "pending",
+          "filename": "S06E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Möbius Dick",
+          "url": "http://nahnoji.cz/video?id=11038",
+          "videoId": "11038",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=109",
+          "status": "pending",
+          "filename": "S06E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Jedno vejce do skla",
+          "url": "http://nahnoji.cz/video?id=11039",
+          "videoId": "11039",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=110",
+          "status": "pending",
+          "filename": "S06E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Léčba Zoidbergem",
+          "url": "http://nahnoji.cz/video?id=11040",
+          "videoId": "11040",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=111",
+          "status": "pending",
+          "filename": "S06E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Bojovníci s rýmou",
+          "url": "http://nahnoji.cz/video?id=11041",
+          "videoId": "11041",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=112",
+          "status": "pending",
+          "filename": "S06E24.mp4"
+        },
+        {
+          "episode": 25,
+          "title": "Rychlé čipy",
+          "url": "http://nahnoji.cz/video?id=11042",
+          "videoId": "11042",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=113",
+          "status": "pending",
+          "filename": "S06E25.mp4"
+        },
+        {
+          "episode": 26,
+          "title": "Reinkarnace",
+          "url": "http://nahnoji.cz/video?id=11043",
+          "videoId": "11043",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=114",
+          "status": "pending",
+          "filename": "S06E26.mp4"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Season 7",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Sexuální praktiky robotů",
+          "url": "http://nahnoji.cz/video?id=11044",
+          "videoId": "11044",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=115",
+          "status": "pending",
+          "filename": "S07E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Chyť mě za ruku",
+          "url": "http://nahnoji.cz/video?id=11045",
+          "videoId": "11045",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=116",
+          "status": "pending",
+          "filename": "S07E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Narodím se zítra",
+          "url": "http://nahnoji.cz/video?id=11046",
+          "videoId": "11046",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=117",
+          "status": "pending",
+          "filename": "S07E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Zloděj na pytel",
+          "url": "http://nahnoji.cz/video?id=11047",
+          "videoId": "11047",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=118",
+          "status": "pending",
+          "filename": "S07E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Rozvod po mutantsku",
+          "url": "http://nahnoji.cz/video?id=11048",
+          "videoId": "11048",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=119",
+          "status": "pending",
+          "filename": "S07E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Ostudový dotek",
+          "url": "http://nahnoji.cz/video?id=11049",
+          "videoId": "11049",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=120",
+          "status": "pending",
+          "filename": "S07E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "V boji proti stroji",
+          "url": "http://nahnoji.cz/video?id=11050",
+          "videoId": "11050",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=121",
+          "status": "pending",
+          "filename": "S07E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Tenkrát na Oktoberfestu",
+          "url": "http://nahnoji.cz/video?id=11051",
+          "videoId": "11051",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=122",
+          "status": "pending",
+          "filename": "S07E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Honba za svobodnou vůlí",
+          "url": "http://nahnoji.cz/video?id=11052",
+          "videoId": "11052",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=123",
+          "status": "pending",
+          "filename": "S07E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Skoro poslední přání",
+          "url": "http://nahnoji.cz/video?id=11053",
+          "videoId": "11053",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=124",
+          "status": "pending",
+          "filename": "S07E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Viva Mars Vegas",
+          "url": "http://nahnoji.cz/video?id=11054",
+          "videoId": "11054",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=125",
+          "status": "pending",
+          "filename": "S07E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Hon na robolišku",
+          "url": "http://nahnoji.cz/video?id=11055",
+          "videoId": "11055",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=126",
+          "status": "pending",
+          "filename": "S07E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Přírodňárna",
+          "url": "http://nahnoji.cz/video?id=11056",
+          "videoId": "11056",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=127",
+          "status": "pending",
+          "filename": "S07E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Rychle a zploštile",
+          "url": "http://nahnoji.cz/video?id=11057",
+          "videoId": "11057",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=128",
+          "status": "pending",
+          "filename": "S07E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Opičí úlet",
+          "url": "http://nahnoji.cz/video?id=11058",
+          "videoId": "11058",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=129",
+          "status": "pending",
+          "filename": "S07E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Tydýt mimozemšťan",
+          "url": "http://nahnoji.cz/video?id=11059",
+          "videoId": "11059",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=130",
+          "status": "pending",
+          "filename": "S07E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Píseň železničáře",
+          "url": "http://nahnoji.cz/video?id=11060",
+          "videoId": "11060",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=131",
+          "status": "pending",
+          "filename": "S07E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Hrátky s ohněm",
+          "url": "http://nahnoji.cz/video?id=11061",
+          "videoId": "11061",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=132",
+          "status": "pending",
+          "filename": "S07E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Sobotní zábavné dopoledne",
+          "url": "http://nahnoji.cz/video?id=11062",
+          "videoId": "11062",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=133",
+          "status": "pending",
+          "filename": "S07E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Kalkulon 2.0",
+          "url": "http://nahnoji.cz/video?id=11063",
+          "videoId": "11063",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=134",
+          "status": "pending",
+          "filename": "S07E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Zadečku, vrať se",
+          "url": "http://nahnoji.cz/video?id=11064",
+          "videoId": "11064",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=135",
+          "status": "pending",
+          "filename": "S07E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Genům navzdory",
+          "url": "http://nahnoji.cz/video?id=11065",
+          "videoId": "11065",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=136",
+          "status": "pending",
+          "filename": "S07E22.mp4"
+        },
+        {
+          "episode": 23,
+          "title": "Hra o tóny",
+          "url": "http://nahnoji.cz/video?id=11066",
+          "videoId": "11066",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=137",
+          "status": "pending",
+          "filename": "S07E23.mp4"
+        },
+        {
+          "episode": 24,
+          "title": "Vražda v Planet Expresu",
+          "url": "http://nahnoji.cz/video?id=11067",
+          "videoId": "11067",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=138",
+          "status": "pending",
+          "filename": "S07E24.mp4"
+        },
+        {
+          "episode": 25,
+          "title": "Rozum a čich",
+          "url": "http://nahnoji.cz/video?id=11068",
+          "videoId": "11068",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=139",
+          "status": "pending",
+          "filename": "S07E25.mp4"
+        },
+        {
+          "episode": 26,
+          "title": "Mezitím",
+          "url": "http://nahnoji.cz/video?id=11069",
+          "videoId": "11069",
+          "originalUrl": "http://futurama.nikee.net/index.php?video=140",
+          "status": "pending",
+          "filename": "S07E26.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 140,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 140
+  }
+}

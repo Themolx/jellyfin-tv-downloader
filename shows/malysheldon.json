@@ -1,0 +1,1196 @@
+{
+  "showName": "Malysheldon",
+  "showNameCz": "Malysheldon",
+  "year": "",
+  "description": "Scraped from http://malysheldon.alyss.cz",
+  "targetFolder": "malysheldon",
+  "source": "nahnoji.cz",
+  "originalSource": "http://malysheldon.alyss.cz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pilot",
+          "url": "http://nahnoji.cz/video?id=18359",
+          "videoId": "18359",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Rakety, komunisté a Deweyova desetinná soustava",
+          "url": "http://nahnoji.cz/video?id=18360",
+          "videoId": "18360",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=2",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Poker, víra a vajíčka",
+          "url": "http://nahnoji.cz/video?id=18361",
+          "videoId": "18361",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=3",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Terapeut, komiks a snídaňová klobása",
+          "url": "http://nahnoji.cz/video?id=18362",
+          "videoId": "18362",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=4",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Solární kalkulačka, trofej a poprsí roztleskávačky",
+          "url": "http://nahnoji.cz/video?id=18364",
+          "videoId": "18364",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=5",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Nášivka, modem a Zantac",
+          "url": "http://nahnoji.cz/video?id=18365",
+          "videoId": "18365",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=6",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Bůček, vúdú a tajný závod",
+          "url": "http://nahnoji.cz/video?id=18366",
+          "videoId": "18366",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=7",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Mys Canaveral, Shrodingerova kočka a vlasy Cyndi Lauper",
+          "url": "http://nahnoji.cz/video?id=18367",
+          "videoId": "18367",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=8",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Kirk, Spock a tříselná kýla",
+          "url": "http://nahnoji.cz/video?id=18368",
+          "videoId": "18368",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=9",
+          "status": "pending",
+          "filename": "S01E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Orlí pírko, fazolový lusk a folkový šlágr",
+          "url": "http://nahnoji.cz/video?id=18369",
+          "videoId": "18369",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=10",
+          "status": "pending",
+          "filename": "S01E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Démoni, nedělní škola a prvočísla",
+          "url": "http://nahnoji.cz/video?id=18370",
+          "videoId": "18370",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=11",
+          "status": "pending",
+          "filename": "S01E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Počítač, umělohmotný poník a bedna piv",
+          "url": "http://nahnoji.cz/video?id=18371",
+          "videoId": "18371",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=12",
+          "status": "pending",
+          "filename": "S01E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Kýchnutí, trest a Sissy Spacek",
+          "url": "http://nahnoji.cz/video?id=18372",
+          "videoId": "18372",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=13",
+          "status": "pending",
+          "filename": "S01E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Bramborový salát, násada a tátova whiskey",
+          "url": "http://nahnoji.cz/video?id=18373",
+          "videoId": "18373",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=14",
+          "status": "pending",
+          "filename": "S01E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Dolomit, jablíčko a záhadná žena",
+          "url": "http://nahnoji.cz/video?id=18374",
+          "videoId": "18374",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=15",
+          "status": "pending",
+          "filename": "S01E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Smrtící asteroidy, Oklahoma a zježené vlasy",
+          "url": "http://nahnoji.cz/video?id=18375",
+          "videoId": "18375",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=16",
+          "status": "pending",
+          "filename": "S01E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Jiu-Jitsu, bublinková fólie a čoko mlíko",
+          "url": "http://nahnoji.cz/video?id=18376",
+          "videoId": "18376",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=17",
+          "status": "pending",
+          "filename": "S01E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Matka, dítě a pozadí modrého ničemy",
+          "url": "http://nahnoji.cz/video?id=18377",
+          "videoId": "18377",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=18",
+          "status": "pending",
+          "filename": "S01E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Gluony, guacamole a fialová",
+          "url": "http://nahnoji.cz/video?id=18378",
+          "videoId": "18378",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=19",
+          "status": "pending",
+          "filename": "S01E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Pes, veverka a rybička Rybička",
+          "url": "http://nahnoji.cz/video?id=18379",
+          "videoId": "18379",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=20",
+          "status": "pending",
+          "filename": "S01E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Suchá klobása, pláštěnka a Tony Danza",
+          "url": "http://nahnoji.cz/video?id=18380",
+          "videoId": "18380",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=21",
+          "status": "pending",
+          "filename": "S01E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Vanilková zmrzlina, nápadníci a jídelní sestava",
+          "url": "http://nahnoji.cz/video?id=18381",
+          "videoId": "18381",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=22",
+          "status": "pending",
+          "filename": "S01E22.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pronikavé bzučení a balanční kolečka",
+          "url": "http://nahnoji.cz/video?id=18389",
+          "videoId": "18389",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=23",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Geniální protivník a Sir Isaac Neutron",
+          "url": "http://nahnoji.cz/video?id=18390",
+          "videoId": "18390",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=24",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Krize víry a chapadlová rasa",
+          "url": "http://nahnoji.cz/video?id=18391",
+          "videoId": "18391",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=25",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Finanční tajemství a rybí omáčka",
+          "url": "http://nahnoji.cz/video?id=18392",
+          "videoId": "18392",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=26",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Vědecká studie a československé svatební cukroví",
+          "url": "http://nahnoji.cz/video?id=18393",
+          "videoId": "18393",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=27",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Sedm smrtelných hříchů a malý Carl Sagan",
+          "url": "http://nahnoji.cz/video?id=18394",
+          "videoId": "18394",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=28",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Uhlíková metoda datování a vycpaný mýval",
+          "url": "http://nahnoji.cz/video?id=18395",
+          "videoId": "18395",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=29",
+          "status": "pending",
+          "filename": "S02E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Osmibitová princezna a génius na píchlá kola",
+          "url": "http://nahnoji.cz/video?id=18396",
+          "videoId": "18396",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=30",
+          "status": "pending",
+          "filename": "S02E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Rodinná dynamika a Pontiac Fiero",
+          "url": "http://nahnoji.cz/video?id=18397",
+          "videoId": "18397",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=31",
+          "status": "pending",
+          "filename": "S02E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Zakrnělé dětství a luxusní konzerva oříšků",
+          "url": "http://nahnoji.cz/video?id=18398",
+          "videoId": "18398",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=32",
+          "status": "pending",
+          "filename": "S02E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Rasa superlidí a dopis Alfovi",
+          "url": "http://nahnoji.cz/video?id=18399",
+          "videoId": "18399",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=33",
+          "status": "pending",
+          "filename": "S02E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Břichobol a pořádný kus metafory",
+          "url": "http://nahnoji.cz/video?id=18400",
+          "videoId": "18400",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=34",
+          "status": "pending",
+          "filename": "S02E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Nukleární reaktor a nic moc přezdívka",
+          "url": "http://nahnoji.cz/video?id=18401",
+          "videoId": "18401",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=35",
+          "status": "pending",
+          "filename": "S02E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "David, Goliáš a čokomlíko zezadu",
+          "url": "http://nahnoji.cz/video?id=18402",
+          "videoId": "18402",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=36",
+          "status": "pending",
+          "filename": "S02E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Matematická naléhavost a vzrostlé palmy",
+          "url": "http://nahnoji.cz/video?id=18403",
+          "videoId": "18403",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=37",
+          "status": "pending",
+          "filename": "S02E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Bochník chleba a stará dobrá vlajka",
+          "url": "http://nahnoji.cz/video?id=18404",
+          "videoId": "18404",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=38",
+          "status": "pending",
+          "filename": "S02E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Albert Einstein a příběh o jiné Mary",
+          "url": "http://nahnoji.cz/video?id=18405",
+          "videoId": "18405",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=39",
+          "status": "pending",
+          "filename": "S02E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Stoprocentní skóre a opékání nad kahanem",
+          "url": "http://nahnoji.cz/video?id=18406",
+          "videoId": "18406",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=40",
+          "status": "pending",
+          "filename": "S02E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Politická kampaň a švindlování při stolní hře",
+          "url": "http://nahnoji.cz/video?id=18407",
+          "videoId": "18407",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=41",
+          "status": "pending",
+          "filename": "S02E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Nabídka k sňatku a kříž z dřívek od nanuků",
+          "url": "http://nahnoji.cz/video?id=18408",
+          "videoId": "18408",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=42",
+          "status": "pending",
+          "filename": "S02E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Zlomené srdce a krokomonstrum",
+          "url": "http://nahnoji.cz/video?id=18409",
+          "videoId": "18409",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=43",
+          "status": "pending",
+          "filename": "S02E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Švédské vědecké cosi a rovnice s toastem",
+          "url": "http://nahnoji.cz/video?id=18410",
+          "videoId": "18410",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=44",
+          "status": "pending",
+          "filename": "S02E22.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Potrhlí intoušové a texaská sněžítka",
+          "url": "http://nahnoji.cz/video?id=18432",
+          "videoId": "18432",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=45",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Úklidový kumbál a satanské monopoly",
+          "url": "http://nahnoji.cz/video?id=18433",
+          "videoId": "18433",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=46",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Podnikatelista a naplácaný zadek",
+          "url": "http://nahnoji.cz/video?id=18434",
+          "videoId": "18434",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=47",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Hobitci, fyzišky a švihnutí míčkem",
+          "url": "http://nahnoji.cz/video?id=18435",
+          "videoId": "18435",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=48",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Ananas a útěcha na mužské hrudi",
+          "url": "http://nahnoji.cz/video?id=18436",
+          "videoId": "18436",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=49",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Parazol a setsakra trefa",
+          "url": "http://nahnoji.cz/video?id=18437",
+          "videoId": "18437",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=50",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Orangutan bornejský a kultura podněcující pokřikování",
+          "url": "http://nahnoji.cz/video?id=18438",
+          "videoId": "18438",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=51",
+          "status": "pending",
+          "filename": "S03E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Hřích lakomství a Chimichanga u Chi-chi",
+          "url": "http://nahnoji.cz/video?id=18439",
+          "videoId": "18439",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=52",
+          "status": "pending",
+          "filename": "S03E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Pozvání na oslavu, hrozny k fotbalu a pozemský kur",
+          "url": "http://nahnoji.cz/video?id=18440",
+          "videoId": "18440",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=53",
+          "status": "pending",
+          "filename": "S03E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Polévka mládeže a klubíčko lží",
+          "url": "http://nahnoji.cz/video?id=18441",
+          "videoId": "18441",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=54",
+          "status": "pending",
+          "filename": "S03E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Živá drůbež, mrtvá drůbež a svátost manželská",
+          "url": "http://nahnoji.cz/video?id=18442",
+          "videoId": "18442",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=55",
+          "status": "pending",
+          "filename": "S03E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Tělový lesk a batoh přežití",
+          "url": "http://nahnoji.cz/video?id=18443",
+          "videoId": "18443",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=56",
+          "status": "pending",
+          "filename": "S03E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Smlouvy, pravidla a ždibec prasečího mozečku",
+          "url": "http://nahnoji.cz/video?id=18444",
+          "videoId": "18444",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=57",
+          "status": "pending",
+          "filename": "S03E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Smůla, křížek a štěrk u krajnice",
+          "url": "http://nahnoji.cz/video?id=18445",
+          "videoId": "18445",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=58",
+          "status": "pending",
+          "filename": "S03E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Přítelova bývalka a podrbání pro štěstí",
+          "url": "http://nahnoji.cz/video?id=18446",
+          "videoId": "18446",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=59",
+          "status": "pending",
+          "filename": "S03E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Pasadena",
+          "url": "http://nahnoji.cz/video?id=18447",
+          "videoId": "18447",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=60",
+          "status": "pending",
+          "filename": "S03E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Akademický přečin a romantičtější Taco Bell",
+          "url": "http://nahnoji.cz/video?id=18448",
+          "videoId": "18448",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=61",
+          "status": "pending",
+          "filename": "S03E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Naražená žebra a detektor duchů z krabice lupínků",
+          "url": "http://nahnoji.cz/video?id=18449",
+          "videoId": "18449",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=62",
+          "status": "pending",
+          "filename": "S03E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Dům na prodej a vážné ženské záležitosti",
+          "url": "http://nahnoji.cz/video?id=18450",
+          "videoId": "18450",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=63",
+          "status": "pending",
+          "filename": "S03E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Mléčný zub a egyptský bůh vědění",
+          "url": "http://nahnoji.cz/video?id=18451",
+          "videoId": "18451",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=64",
+          "status": "pending",
+          "filename": "S03E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Schovaný dopis a běžné kolečko zpracovaného masa",
+          "url": "http://nahnoji.cz/video?id=18452",
+          "videoId": "18452",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=65",
+          "status": "pending",
+          "filename": "S03E21.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Maturita",
+          "url": "http://nahnoji.cz/video?id=18456",
+          "videoId": "18456",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=66",
+          "status": "pending",
+          "filename": "S04E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Průvodce, mladá slečna a vyhazovač jménem Dalton",
+          "url": "http://nahnoji.cz/video?id=18457",
+          "videoId": "18457",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=67",
+          "status": "pending",
+          "filename": "S04E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Balanční kolečka a odvázané kuře",
+          "url": "http://nahnoji.cz/video?id=18458",
+          "videoId": "18458",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=68",
+          "status": "pending",
+          "filename": "S04E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Biblický tábor a kočár lásky",
+          "url": "http://nahnoji.cz/video?id=18459",
+          "videoId": "18459",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=69",
+          "status": "pending",
+          "filename": "S04E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Zatuchlá krypta a tyčinka na počurání",
+          "url": "http://nahnoji.cz/video?id=18460",
+          "videoId": "18460",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=70",
+          "status": "pending",
+          "filename": "S04E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Přípravný kurz a vynálezce zipu",
+          "url": "http://nahnoji.cz/video?id=18461",
+          "videoId": "18461",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=71",
+          "status": "pending",
+          "filename": "S04E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Filozofie a červi, kteří po vás jdou",
+          "url": "http://nahnoji.cz/video?id=18462",
+          "videoId": "18462",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=72",
+          "status": "pending",
+          "filename": "S04E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Existenciální krize a bublifuk s hlavou médi",
+          "url": "http://nahnoji.cz/video?id=18463",
+          "videoId": "18463",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=73",
+          "status": "pending",
+          "filename": "S04E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Rozbředlá zmrzlina a opička flašinetáře",
+          "url": "http://nahnoji.cz/video?id=18464",
+          "videoId": "18464",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=74",
+          "status": "pending",
+          "filename": "S04E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Kovbojský aerobik a 473 šroubů od vazelíny",
+          "url": "http://nahnoji.cz/video?id=18465",
+          "videoId": "18465",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=75",
+          "status": "pending",
+          "filename": "S04E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Pager, klub a vrásčitý suchar",
+          "url": "http://nahnoji.cz/video?id=18466",
+          "videoId": "18466",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=76",
+          "status": "pending",
+          "filename": "S04E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Krabice pokladů a babča vědy",
+          "url": "http://nahnoji.cz/video?id=18467",
+          "videoId": "18467",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=77",
+          "status": "pending",
+          "filename": "S04E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Vozítko pro starochy a nový model vzdělávání",
+          "url": "http://nahnoji.cz/video?id=18468",
+          "videoId": "18468",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=78",
+          "status": "pending",
+          "filename": "S04E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Posmání a bezvýhradný souhlas vládniho institutu",
+          "url": "http://nahnoji.cz/video?id=18469",
+          "videoId": "18469",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=79",
+          "status": "pending",
+          "filename": "S04E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Virus, žal a svět plný možností",
+          "url": "http://nahnoji.cz/video?id=18472",
+          "videoId": "18472",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=80",
+          "status": "pending",
+          "filename": "S04E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Druhé zázračné dítě a žhavé tipy pro plné rty",
+          "url": "http://nahnoji.cz/video?id=18473",
+          "videoId": "18473",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=81",
+          "status": "pending",
+          "filename": "S04E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Černá díra",
+          "url": "http://nahnoji.cz/video?id=18474",
+          "videoId": "18474",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=82",
+          "status": "pending",
+          "filename": "S04E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Zdivočelý svět nelineární dynamiky",
+          "url": "http://nahnoji.cz/video?id=18475",
+          "videoId": "18475",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=83",
+          "status": "pending",
+          "filename": "S04E18.mp4"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Nevyvedený večer a chaos sobeckých tužeb",
+          "url": "http://nahnoji.cz/video?id=18476",
+          "videoId": "18476",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=84",
+          "status": "pending",
+          "filename": "S05E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Čmuchání za zády a obrat k ateismu",
+          "url": "http://nahnoji.cz/video?id=18477",
+          "videoId": "18477",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=111",
+          "status": "pending",
+          "filename": "S05E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Potenciální energie a kořalka na lavičce v parku",
+          "url": "http://nahnoji.cz/video?id=18478",
+          "videoId": "18478",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=112",
+          "status": "pending",
+          "filename": "S05E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Láry fáry a tajná místnost",
+          "url": "http://nahnoji.cz/video?id=18479",
+          "videoId": "18479",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=113",
+          "status": "pending",
+          "filename": "S05E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Plyšová zvířátka a milá jižanská syzygie",
+          "url": "http://nahnoji.cz/video?id=18480",
+          "videoId": "18480",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=114",
+          "status": "pending",
+          "filename": "S05E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Praní peněz a příval hormonů",
+          "url": "http://nahnoji.cz/video?id=18481",
+          "videoId": "18481",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=115",
+          "status": "pending",
+          "filename": "S05E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Úvod do inženýrství a kapka tužidla",
+          "url": "http://nahnoji.cz/video?id=18482",
+          "videoId": "18482",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=116",
+          "status": "pending",
+          "filename": "S05E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Velekancléř a doupě hříchu",
+          "url": "http://nahnoji.cz/video?id=18483",
+          "videoId": "18483",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=117",
+          "status": "pending",
+          "filename": "S05E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Šprajc a zvláštně hypnotický bohém",
+          "url": "http://nahnoji.cz/video?id=18484",
+          "videoId": "18484",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=118",
+          "status": "pending",
+          "filename": "S05E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Drahá závada a sprostí ulejváci",
+          "url": "http://nahnoji.cz/video?id=18485",
+          "videoId": "18485",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=119",
+          "status": "pending",
+          "filename": "S05E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Noc jinde, rosnička a odporný zlozvyk",
+          "url": "http://nahnoji.cz/video?id=18486",
+          "videoId": "18486",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=120",
+          "status": "pending",
+          "filename": "S05E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Růžový Cadillac a rituální tanec",
+          "url": "http://nahnoji.cz/video?id=18487",
+          "videoId": "18487",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=121",
+          "status": "pending",
+          "filename": "S05E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Spousta náplastí a Cooperova kapitulace",
+          "url": "http://nahnoji.cz/video?id=18488",
+          "videoId": "18488",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=122",
+          "status": "pending",
+          "filename": "S05E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Stírací los a ženské nástrahy",
+          "url": "http://nahnoji.cz/video?id=18489",
+          "videoId": "18489",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=123",
+          "status": "pending",
+          "filename": "S05E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Humr, pásovec a mnohem větší číslo",
+          "url": "http://nahnoji.cz/video?id=18490",
+          "videoId": "18490",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=124",
+          "status": "pending",
+          "filename": "S05E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Kufřík plný peněz a žluté klaunské auto",
+          "url": "http://nahnoji.cz/video?id=18491",
+          "videoId": "18491",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=125",
+          "status": "pending",
+          "filename": "S05E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Sólo burák, sociální tvor a pravda",
+          "url": "http://nahnoji.cz/video?id=18492",
+          "videoId": "18492",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=126",
+          "status": "pending",
+          "filename": "S05E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Děti, lži a senzační kremrole",
+          "url": "http://nahnoji.cz/video?id=18493",
+          "videoId": "18493",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=127",
+          "status": "pending",
+          "filename": "S05E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Bohabojný Baptista a sexy výstavní manžel",
+          "url": "http://nahnoji.cz/video?id=18494",
+          "videoId": "18494",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=128",
+          "status": "pending",
+          "filename": "S05E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Strýček Sheldon a hormonální bouřlivák",
+          "url": "http://nahnoji.cz/video?id=18495",
+          "videoId": "18495",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=129",
+          "status": "pending",
+          "filename": "S05E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Bílá spodina, pánbíčkáři a rozdávání ran",
+          "url": "http://nahnoji.cz/video?id=18746",
+          "videoId": "18746",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=130",
+          "status": "pending",
+          "filename": "S05E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Ucpaný pór, trocha španělštiny a budoucnost",
+          "url": "http://nahnoji.cz/video?id=18747",
+          "videoId": "18747",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=131",
+          "status": "pending",
+          "filename": "S05E22.mp4"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Čtyři sta kartonů neproclených cigaret a synovnice",
+          "url": "http://nahnoji.cz/video?id=19623",
+          "videoId": "19623",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=132",
+          "status": "pending",
+          "filename": "S06E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Worf z budoucnosti a margarita jižního Pacifiku",
+          "url": "http://nahnoji.cz/video?id=19624",
+          "videoId": "19624",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=133",
+          "status": "pending",
+          "filename": "S06E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Vášeň na seně a sheldokracie",
+          "url": "http://nahnoji.cz/video?id=20004",
+          "videoId": "20004",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=134",
+          "status": "pending",
+          "filename": "S06E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Blonďatá ctižádost a pojetí nuly",
+          "url": "http://nahnoji.cz/video?id=19626",
+          "videoId": "19626",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=135",
+          "status": "pending",
+          "filename": "S06E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Kolejní poradce a jižní riviéra",
+          "url": "http://nahnoji.cz/video?id=19627",
+          "videoId": "19627",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=136",
+          "status": "pending",
+          "filename": "S06E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Ošklivý auto, nevěra a pořádnej fotbal",
+          "url": "http://nahnoji.cz/video?id=19628",
+          "videoId": "19628",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=137",
+          "status": "pending",
+          "filename": "S06E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Tvrdší oříšek a zamluvený komiks",
+          "url": "http://nahnoji.cz/video?id=19629",
+          "videoId": "19629",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=138",
+          "status": "pending",
+          "filename": "S06E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Právnická hantýrka a cizí intimní partie",
+          "url": "http://nahnoji.cz/video?id=19630",
+          "videoId": "19630",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=139",
+          "status": "pending",
+          "filename": "S06E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Odchod ze školy a medfordský zázrak",
+          "url": "http://nahnoji.cz/video?id=20005",
+          "videoId": "20005",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=140",
+          "status": "pending",
+          "filename": "S06E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Palačinková neděle a ukázkové flirtování",
+          "url": "http://nahnoji.cz/video?id=20006",
+          "videoId": "20006",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=141",
+          "status": "pending",
+          "filename": "S06E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Sálový počítač, zábrany a týden klidu na lůžku",
+          "url": "http://nahnoji.cz/video?id=19633",
+          "videoId": "19633",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=142",
+          "status": "pending",
+          "filename": "S06E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Předporodní oslava a testosteronem nabitá debata",
+          "url": "http://nahnoji.cz/video?id=19634",
+          "videoId": "19634",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=143",
+          "status": "pending",
+          "filename": "S06E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Studentský mejdan, rodičovské chyby a puchýř jako hrom",
+          "url": "http://nahnoji.cz/video?id=20007",
+          "videoId": "20007",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=144",
+          "status": "pending",
+          "filename": "S06E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Zahajovací oslava a celý člověk",
+          "url": "http://nahnoji.cz/video?id=20008",
+          "videoId": "20008",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=145",
+          "status": "pending",
+          "filename": "S06E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Pubertální úzkost a chytrolínův pochod hanby",
+          "url": "http://nahnoji.cz/video?id=19637",
+          "videoId": "19637",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=146",
+          "status": "pending",
+          "filename": "S06E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Krádež auta a útěk",
+          "url": "http://nahnoji.cz/video?id=19640",
+          "videoId": "19640",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=147",
+          "status": "pending",
+          "filename": "S06E16.mp4"
+        },
+        {
+          "episode": 17,
+          "title": "Německá lidovka a skutečný dospělák",
+          "url": "http://nahnoji.cz/video?id=19641",
+          "videoId": "19641",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=148",
+          "status": "pending",
+          "filename": "S06E17.mp4"
+        },
+        {
+          "episode": 18,
+          "title": "Zelení mužíčci a žádost o ruku",
+          "url": "http://nahnoji.cz/video?id=19642",
+          "videoId": "19642",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=149",
+          "status": "pending",
+          "filename": "S06E18.mp4"
+        },
+        {
+          "episode": 19,
+          "title": "Nová rosnička a domácí rozmazlování",
+          "url": "http://nahnoji.cz/video?id=20009",
+          "videoId": "20009",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=150",
+          "status": "pending",
+          "filename": "S06E19.mp4"
+        },
+        {
+          "episode": 20,
+          "title": "Němčina pro začátečníky a bláznivý dědek s pálkou",
+          "url": "http://nahnoji.cz/video?id=20010",
+          "videoId": "20010",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=151",
+          "status": "pending",
+          "filename": "S06E20.mp4"
+        },
+        {
+          "episode": 21,
+          "title": "Romantický výlet a německá masitá strava",
+          "url": "http://nahnoji.cz/video?id=19646",
+          "videoId": "19646",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=152",
+          "status": "pending",
+          "filename": "S06E21.mp4"
+        },
+        {
+          "episode": 22,
+          "title": "Tornádo, desetihodinový let a zatraceně krásný prsten",
+          "url": "http://nahnoji.cz/video?id=19647",
+          "videoId": "19647",
+          "originalUrl": "http://malysheldon.alyss.cz/index.php?video=153",
+          "status": "pending",
+          "filename": "S06E22.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 127,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 127
+  }
+}

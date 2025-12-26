@@ -1,0 +1,257 @@
+{
+  "showName": "Ajtaci",
+  "showNameCz": "Ajtaci",
+  "year": "",
+  "description": "Scraped from http://ajtaci.alyss.cz",
+  "targetFolder": "ajtaci",
+  "source": "nahnoji.cz",
+  "originalSource": "http://ajtaci.alyss.cz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Včerejší odpad",
+          "url": "http://nahnoji.cz/video?id=155",
+          "videoId": "155",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Kalamity Jen",
+          "url": "http://nahnoji.cz/video?id=156",
+          "videoId": "156",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=2",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Fifty-Fifty",
+          "url": "http://nahnoji.cz/video?id=157",
+          "videoId": "157",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=3",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Červené dveře",
+          "url": "http://nahnoji.cz/video?id=677",
+          "videoId": "677",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=4",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Strašení Billa Course",
+          "url": "http://nahnoji.cz/video?id=678",
+          "videoId": "678",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=5",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Přijíždí teta Irma",
+          "url": "http://nahnoji.cz/video?id=679",
+          "videoId": "679",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=6",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Sraz spolupracovníků",
+          "url": "http://nahnoji.cz/video?id=693",
+          "videoId": "693",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=8",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Návrat zlatého dítěte",
+          "url": "http://nahnoji.cz/video?id=700",
+          "videoId": "700",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=9",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Moss a Němec",
+          "url": "http://nahnoji.cz/video?id=701",
+          "videoId": "701",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=10",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Večírek",
+          "url": "http://nahnoji.cz/video?id=702",
+          "videoId": "702",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=11",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Kouř a zrcadla",
+          "url": "http://nahnoji.cz/video?id=703",
+          "videoId": "703",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=12",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Muži bez žen",
+          "url": "http://nahnoji.cz/video?id=704",
+          "videoId": "704",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=13",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Z pekla",
+          "url": "http://nahnoji.cz/video?id=137",
+          "videoId": "137",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=15",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Nejsme muži",
+          "url": "http://nahnoji.cz/video?id=799",
+          "videoId": "799",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=16",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Běhny jako my",
+          "url": "http://nahnoji.cz/video?id=801",
+          "videoId": "801",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=17",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Projev",
+          "url": "http://nahnoji.cz/video?id=800",
+          "videoId": "800",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=18",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Friendface",
+          "url": "http://nahnoji.cz/video?id=802",
+          "videoId": "802",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=19",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Vědátorský kalendář",
+          "url": "http://nahnoji.cz/video?id=84",
+          "videoId": "84",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=20",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Jen Fredo",
+          "url": "http://nahnoji.cz/video?id=12321",
+          "videoId": "12321",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=22",
+          "status": "pending",
+          "filename": "S04E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Závěrečný odpočet",
+          "url": "http://nahnoji.cz/video?id=12322",
+          "videoId": "12322",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=23",
+          "status": "pending",
+          "filename": "S04E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Něco se stalo",
+          "url": "http://nahnoji.cz/video?id=12323",
+          "videoId": "12323",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=24",
+          "status": "pending",
+          "filename": "S04E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Italština pro začátečníky",
+          "url": "http://nahnoji.cz/video?id=12324",
+          "videoId": "12324",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=25",
+          "status": "pending",
+          "filename": "S04E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Zlobílkové",
+          "url": "http://nahnoji.cz/video?id=12325",
+          "videoId": "12325",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=26",
+          "status": "pending",
+          "filename": "S04E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Reynholmová vs. Reynholm",
+          "url": "http://nahnoji.cz/video?id=12326",
+          "videoId": "12326",
+          "originalUrl": "http://ajtaci.alyss.cz/index.php?video=27",
+          "status": "pending",
+          "filename": "S04E06.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 24,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 24
+  }
+}

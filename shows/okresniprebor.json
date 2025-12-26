@@ -1,0 +1,167 @@
+{
+  "showName": "Okresni Prebor",
+  "showNameCz": "Okresní Přebor",
+  "year": "",
+  "description": "Scraped from http://okresniprebor.enkii.cz",
+  "targetFolder": "Okresni_Prebor",
+  "source": "nahnoji.cz",
+  "originalSource": "http://okresniprebor.enkii.cz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pohřeb",
+          "url": "http://nahnoji.cz/video?id=10450",
+          "videoId": "10450",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Nábor",
+          "url": "http://nahnoji.cz/video?id=10451",
+          "videoId": "10451",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=17",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Fanynka",
+          "url": "http://nahnoji.cz/video?id=13354",
+          "videoId": "13354",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=18",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Jesle",
+          "url": "http://nahnoji.cz/video?id=13355",
+          "videoId": "13355",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=19",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Forbes",
+          "url": "http://nahnoji.cz/video?id=13356",
+          "videoId": "13356",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=20",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Lucka",
+          "url": "http://nahnoji.cz/video?id=13357",
+          "videoId": "13357",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=21",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Kopačák",
+          "url": "http://nahnoji.cz/video?id=13358",
+          "videoId": "13358",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=22",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Schůze",
+          "url": "http://nahnoji.cz/video?id=13359",
+          "videoId": "13359",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=23",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Na váhu",
+          "url": "http://nahnoji.cz/video?id=13360",
+          "videoId": "13360",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=24",
+          "status": "pending",
+          "filename": "S01E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Jaro",
+          "url": "http://nahnoji.cz/video?id=13361",
+          "videoId": "13361",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=25",
+          "status": "pending",
+          "filename": "S01E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Konvoj",
+          "url": "http://nahnoji.cz/video?id=13362",
+          "videoId": "13362",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=26",
+          "status": "pending",
+          "filename": "S01E11.mp4"
+        },
+        {
+          "episode": 12,
+          "title": "Láska",
+          "url": "http://nahnoji.cz/video?id=13363",
+          "videoId": "13363",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=27",
+          "status": "pending",
+          "filename": "S01E12.mp4"
+        },
+        {
+          "episode": 13,
+          "title": "Inseminátor",
+          "url": "http://nahnoji.cz/video?id=13364",
+          "videoId": "13364",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=28",
+          "status": "pending",
+          "filename": "S01E13.mp4"
+        },
+        {
+          "episode": 14,
+          "title": "Derby",
+          "url": "http://nahnoji.cz/video?id=13365",
+          "videoId": "13365",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=29",
+          "status": "pending",
+          "filename": "S01E14.mp4"
+        },
+        {
+          "episode": 15,
+          "title": "Svatba",
+          "url": "http://nahnoji.cz/video?id=13366",
+          "videoId": "13366",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=30",
+          "status": "pending",
+          "filename": "S01E15.mp4"
+        },
+        {
+          "episode": 16,
+          "title": "Návštěva z kraje",
+          "url": "http://nahnoji.cz/video?id=13367",
+          "videoId": "13367",
+          "originalUrl": "http://okresniprebor.enkii.cz/index.php?video=31",
+          "status": "pending",
+          "filename": "S01E16.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 16,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 16
+  }
+}

@@ -1,0 +1,698 @@
+{
+  "showName": "Rickamorty",
+  "showNameCz": "Rickamorty",
+  "year": "",
+  "description": "Scraped from http://rickamorty.sifee.biz",
+  "targetFolder": "rickamorty",
+  "source": "nahnoji.cz",
+  "originalSource": "http://rickamorty.sifee.biz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pilot",
+          "url": "http://nahnoji.cz/video?id=10173",
+          "videoId": "10173",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Lawnmower Dog",
+          "url": "http://nahnoji.cz/video?id=10174",
+          "videoId": "10174",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=2",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Anatomy Park",
+          "url": "http://nahnoji.cz/video?id=10175",
+          "videoId": "10175",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=3",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "M. Night Shaym-Aliens!",
+          "url": "http://nahnoji.cz/video?id=10176",
+          "videoId": "10176",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=4",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Meeseeks and Destroy",
+          "url": "http://nahnoji.cz/video?id=10177",
+          "videoId": "10177",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=5",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Rick Potion #9",
+          "url": "http://nahnoji.cz/video?id=10178",
+          "videoId": "10178",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=6",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Raising Gazorpazorp",
+          "url": "http://nahnoji.cz/video?id=10179",
+          "videoId": "10179",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=7",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Rixty Minutes",
+          "url": "http://nahnoji.cz/video?id=10184",
+          "videoId": "10184",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=8",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Something Ricked This Way Comes",
+          "url": "http://nahnoji.cz/video?id=10273",
+          "videoId": "10273",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=9",
+          "status": "pending",
+          "filename": "S01E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Close Rick-counters of the Rick Kind",
+          "url": "http://nahnoji.cz/video?id=10345",
+          "videoId": "10345",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=10",
+          "status": "pending",
+          "filename": "S01E10.mp4"
+        },
+        {
+          "episode": 11,
+          "title": "Ricksy Business",
+          "url": "http://nahnoji.cz/video?id=10383",
+          "videoId": "10383",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=11",
+          "status": "pending",
+          "filename": "S01E11.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "A Rickle in Time",
+          "url": "http://nahnoji.cz/video?id=10400",
+          "videoId": "10400",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=12",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Mortynight Run",
+          "url": "http://nahnoji.cz/video?id=10477",
+          "videoId": "10477",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=13",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Auto Erotic Assimilation",
+          "url": "http://nahnoji.cz/video?id=10482",
+          "videoId": "10482",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=14",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Total Rickall",
+          "url": "http://nahnoji.cz/video?id=10486",
+          "videoId": "10486",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=15",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Get Schwifty",
+          "url": "http://nahnoji.cz/video?id=10487",
+          "videoId": "10487",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=16",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "The Ricks Must Be Crazy",
+          "url": "http://nahnoji.cz/video?id=10495",
+          "videoId": "10495",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=17",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Big Trouble in Little Sanchez",
+          "url": "http://nahnoji.cz/video?id=10498",
+          "videoId": "10498",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=18",
+          "status": "pending",
+          "filename": "S02E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Interdimensional Cable 2: Tempting Fate",
+          "url": "http://nahnoji.cz/video?id=10580",
+          "videoId": "10580",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=19",
+          "status": "pending",
+          "filename": "S02E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Look Who's Purging Now",
+          "url": "http://nahnoji.cz/video?id=10677",
+          "videoId": "10677",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=20",
+          "status": "pending",
+          "filename": "S02E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "The Wedding Squanchers",
+          "url": "http://nahnoji.cz/video?id=10744",
+          "videoId": "10744",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=21",
+          "status": "pending",
+          "filename": "S02E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "The Rickshank Redemption",
+          "url": "http://nahnoji.cz/video?id=10795",
+          "videoId": "10795",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=22",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Rickmancing the Stone",
+          "url": "http://nahnoji.cz/video?id=10796",
+          "videoId": "10796",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=23",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Pickle Rick",
+          "url": "http://nahnoji.cz/video?id=10823",
+          "videoId": "10823",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=24",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Vindicators 3. The Return of Worldender",
+          "url": "http://nahnoji.cz/video?id=11076",
+          "videoId": "11076",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=25",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "The Whirly Dirly Conspiracy",
+          "url": "http://nahnoji.cz/video?id=11077",
+          "videoId": "11077",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=26",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Rest and Ricklaxation",
+          "url": "http://nahnoji.cz/video?id=11099",
+          "videoId": "11099",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=27",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "The Ricklantis Mixup",
+          "url": "http://nahnoji.cz/video?id=11165",
+          "videoId": "11165",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=28",
+          "status": "pending",
+          "filename": "S03E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Mortys Mind Blowers",
+          "url": "http://nahnoji.cz/video?id=11177",
+          "videoId": "11177",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=29",
+          "status": "pending",
+          "filename": "S03E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "The ABC's of Beth",
+          "url": "http://nahnoji.cz/video?id=11179",
+          "videoId": "11179",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=30",
+          "status": "pending",
+          "filename": "S03E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "The Rickchurian Mortydate",
+          "url": "http://nahnoji.cz/video?id=11254",
+          "videoId": "11254",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=31",
+          "status": "pending",
+          "filename": "S03E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Edge of Tomorty Rick Die Rickpeat",
+          "url": "http://nahnoji.cz/video?id=17448",
+          "videoId": "17448",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=32",
+          "status": "pending",
+          "filename": "S04E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "The Old Man and the Seat",
+          "url": "http://nahnoji.cz/video?id=17449",
+          "videoId": "17449",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=33",
+          "status": "pending",
+          "filename": "S04E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "One Crew Over the Crewcoo's Morty",
+          "url": "http://nahnoji.cz/video?id=17450",
+          "videoId": "17450",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=34",
+          "status": "pending",
+          "filename": "S04E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Claw and Hoarder Special Ricktim's Morty",
+          "url": "http://nahnoji.cz/video?id=17451",
+          "videoId": "17451",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=35",
+          "status": "pending",
+          "filename": "S04E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Rattlestar Ricklactica",
+          "url": "http://nahnoji.cz/video?id=17452",
+          "videoId": "17452",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=36",
+          "status": "pending",
+          "filename": "S04E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Never Ricking Morty",
+          "url": "http://nahnoji.cz/video?id=17453",
+          "videoId": "17453",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=37",
+          "status": "pending",
+          "filename": "S04E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Promortyus",
+          "url": "http://nahnoji.cz/video?id=17454",
+          "videoId": "17454",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=38",
+          "status": "pending",
+          "filename": "S04E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "The Vat of Acid Episode",
+          "url": "http://nahnoji.cz/video?id=17455",
+          "videoId": "17455",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=39",
+          "status": "pending",
+          "filename": "S04E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Childrick of Mort",
+          "url": "http://nahnoji.cz/video?id=17456",
+          "videoId": "17456",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=40",
+          "status": "pending",
+          "filename": "S04E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Star Mort Rickturn of the Jerri",
+          "url": "http://nahnoji.cz/video?id=17457",
+          "videoId": "17457",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=41",
+          "status": "pending",
+          "filename": "S04E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Mort Dinner Rick Andre",
+          "url": "http://nahnoji.cz/video?id=17945",
+          "videoId": "17945",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=42",
+          "status": "pending",
+          "filename": "S05E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Mortyplicity",
+          "url": "http://nahnoji.cz/video?id=17946",
+          "videoId": "17946",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=43",
+          "status": "pending",
+          "filename": "S05E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "A Rickconvenient Mort",
+          "url": "http://nahnoji.cz/video?id=17947",
+          "videoId": "17947",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=44",
+          "status": "pending",
+          "filename": "S05E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Rickdependence Spray",
+          "url": "http://nahnoji.cz/video?id=17948",
+          "videoId": "17948",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=45",
+          "status": "pending",
+          "filename": "S05E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Amortycan Grickfitti",
+          "url": "http://nahnoji.cz/video?id=17949",
+          "videoId": "17949",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=46",
+          "status": "pending",
+          "filename": "S05E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Rick And Mortys Thanksploitation Spectacular",
+          "url": "http://nahnoji.cz/video?id=17950",
+          "videoId": "17950",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=47",
+          "status": "pending",
+          "filename": "S05E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Gotron Jerrysis Rickvangelion",
+          "url": "http://nahnoji.cz/video?id=17951",
+          "videoId": "17951",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=48",
+          "status": "pending",
+          "filename": "S05E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Rickternal Friendshine of the Spotless Mort",
+          "url": "http://nahnoji.cz/video?id=17952",
+          "videoId": "17952",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=49",
+          "status": "pending",
+          "filename": "S05E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Forgetting Sarick Mortshall",
+          "url": "http://nahnoji.cz/video?id=17953",
+          "videoId": "17953",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=50",
+          "status": "pending",
+          "filename": "S05E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Rickmurai Jack",
+          "url": "http://nahnoji.cz/video?id=17954",
+          "videoId": "17954",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=51",
+          "status": "pending",
+          "filename": "S05E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Solaricks",
+          "url": "http://nahnoji.cz/video?id=19218",
+          "videoId": "19218",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=52",
+          "status": "pending",
+          "filename": "S06E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Rick A Mort Well Lived",
+          "url": "http://nahnoji.cz/video?id=19219",
+          "videoId": "19219",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=53",
+          "status": "pending",
+          "filename": "S06E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Bethic Twinstinct",
+          "url": "http://nahnoji.cz/video?id=19220",
+          "videoId": "19220",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=54",
+          "status": "pending",
+          "filename": "S06E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Night Family",
+          "url": "http://nahnoji.cz/video?id=19221",
+          "videoId": "19221",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=55",
+          "status": "pending",
+          "filename": "S06E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Final DeSmithation",
+          "url": "http://nahnoji.cz/video?id=19222",
+          "videoId": "19222",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=56",
+          "status": "pending",
+          "filename": "S06E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "JuRicksic Mort",
+          "url": "http://nahnoji.cz/video?id=19223",
+          "videoId": "19223",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=57",
+          "status": "pending",
+          "filename": "S06E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Full Meta Jackrick",
+          "url": "http://nahnoji.cz/video?id=19224",
+          "videoId": "19224",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=58",
+          "status": "pending",
+          "filename": "S06E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Analyze Piss",
+          "url": "http://nahnoji.cz/video?id=19225",
+          "videoId": "19225",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=59",
+          "status": "pending",
+          "filename": "S06E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "A Rick in King Mortur's Mort",
+          "url": "http://nahnoji.cz/video?id=19226",
+          "videoId": "19226",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=60",
+          "status": "pending",
+          "filename": "S06E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Ricktional Mortpoon's Rickmas Mortcation",
+          "url": "http://nahnoji.cz/video?id=19227",
+          "videoId": "19227",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=61",
+          "status": "pending",
+          "filename": "S06E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Season 7",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "How Poopy Got His Poop Back",
+          "url": "http://nahnoji.cz/video?id=19876",
+          "videoId": "19876",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=62",
+          "status": "pending",
+          "filename": "S07E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "The Jerrick Trap",
+          "url": "http://nahnoji.cz/video?id=19877",
+          "videoId": "19877",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=63",
+          "status": "pending",
+          "filename": "S07E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Air Force Wong",
+          "url": "http://nahnoji.cz/video?id=19878",
+          "videoId": "19878",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=64",
+          "status": "pending",
+          "filename": "S07E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "That's Amorte",
+          "url": "http://nahnoji.cz/video?id=19879",
+          "videoId": "19879",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=65",
+          "status": "pending",
+          "filename": "S07E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Unmortricken",
+          "url": "http://nahnoji.cz/video?id=19880",
+          "videoId": "19880",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=66",
+          "status": "pending",
+          "filename": "S07E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Rickfending Your Mort",
+          "url": "http://nahnoji.cz/video?id=19881",
+          "videoId": "19881",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=67",
+          "status": "pending",
+          "filename": "S07E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Wet Kuat Amortican Summer",
+          "url": "http://nahnoji.cz/video?id=19882",
+          "videoId": "19882",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=68",
+          "status": "pending",
+          "filename": "S07E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Rise of the Numbericons The Movie",
+          "url": "http://nahnoji.cz/video?id=19883",
+          "videoId": "19883",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=69",
+          "status": "pending",
+          "filename": "S07E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Mort Ragnarick",
+          "url": "http://nahnoji.cz/video?id=19884",
+          "videoId": "19884",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=70",
+          "status": "pending",
+          "filename": "S07E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Fear No Mort",
+          "url": "http://nahnoji.cz/video?id=19885",
+          "videoId": "19885",
+          "originalUrl": "http://rickamorty.sifee.biz/index.php?video=71",
+          "status": "pending",
+          "filename": "S07E10.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 71,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 71
+  }
+}

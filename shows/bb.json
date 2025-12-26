@@ -1,0 +1,86 @@
+{
+  "showName": "Bb",
+  "showNameCz": "Bb",
+  "year": "",
+  "description": "Scraped from http://bb.sifee.biz",
+  "targetFolder": "bb",
+  "source": "nahnoji.cz",
+  "originalSource": "http://bb.sifee.biz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Cizí nešťestí",
+          "url": "http://nahnoji.cz/video?id=3135",
+          "videoId": "3135",
+          "originalUrl": "http://bb.sifee.biz/index.php?video=1",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Kočka v pytli...",
+          "url": "http://nahnoji.cz/video?id=6287",
+          "videoId": "6287",
+          "originalUrl": "http://bb.sifee.biz/index.php?video=15",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "... a pytel je v řece",
+          "url": "http://nahnoji.cz/video?id=6288",
+          "videoId": "6288",
+          "originalUrl": "http://bb.sifee.biz/index.php?video=16",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Muž s rakovinou",
+          "url": "http://nahnoji.cz/video?id=6289",
+          "videoId": "6289",
+          "originalUrl": "http://bb.sifee.biz/index.php?video=17",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Šedá hmota",
+          "url": "http://nahnoji.cz/video?id=6290",
+          "videoId": "6290",
+          "originalUrl": "http://bb.sifee.biz/index.php?video=18",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Prázdné ruce",
+          "url": "http://nahnoji.cz/video?id=6291",
+          "videoId": "6291",
+          "originalUrl": "http://bb.sifee.biz/index.php?video=19",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Mělo by to být bez násilí",
+          "url": "http://nahnoji.cz/video?id=6292",
+          "videoId": "6292",
+          "originalUrl": "http://bb.sifee.biz/index.php?video=20",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 7,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 7
+  }
+}

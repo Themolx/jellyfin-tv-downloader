@@ -1,0 +1,271 @@
+{
+  "showName": "Malá Velká Británie",
+  "showNameEn": "Little Britain",
+  "year": "2003-2006",
+  "description": "British sketch comedy series starring Matt Lucas and David Walliams",
+  "targetFolder": "Mala_Velka_Britanie",
+  "source": "prehrajto.cz",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1 (2003)",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pilot",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e01-10-2003-cz-dab-pilot/663a91750122d",
+          "status": "pending",
+          "filename": "S01E01_Pilot.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Bath of Beans",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e02-10-2003-cz-dab-bath-of-beans/663a91794bbb1",
+          "status": "pending",
+          "filename": "S01E02_Bath_of_Beans.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e03-cz-dabing/5c3db5f881e8f",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e04-cz-dabing/5c3db5f882c37",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Most Cigarettes in a Mouth",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e05-10-2003-cz-dab-most-cigarettes-in-a-mouth/663ad7f1cb565",
+          "status": "pending",
+          "filename": "S01E05_Most_Cigarettes_in_a_Mouth.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Smallest Ant",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e06-smallest-ant/5abfc4d6b8d2b",
+          "status": "pending",
+          "filename": "S01E06_Smallest_Ant.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Episode 7",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e07-cz-dabing/5c3db5f883af0",
+          "status": "pending",
+          "filename": "S01E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Episode 8",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e08-cz-dabing/5c3db5f87ad80",
+          "status": "pending",
+          "filename": "S01E08.mp4"
+        },
+        {
+          "episode": 9,
+          "title": "Episode 9",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e09-cz-dabing/5891bf7f7ed63",
+          "status": "pending",
+          "filename": "S01E09.mp4"
+        },
+        {
+          "episode": 10,
+          "title": "Episode 10",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s01e10-cz-dabing/5891bfcf29285",
+          "status": "pending",
+          "filename": "S01E10.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2 (2004)",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s02e01-cz-dabing/5c3db5f87aed5",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Episode 2",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s02e02-cz-dabing/5c3db9b4007a3",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s02e03-cz-dabing/5c3db9ba2384f",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s02e04-cz-dabing/5c3dbce99e360",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Episode 5",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s02e05-cz-dabing/5c3db5f880a6e",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Episode 6",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s02e06-cz-dabing/5891c0cba23b8",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3 (2005)",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s03e01-cz-dabing/5c3db97917b40",
+          "alternateUrl": "https://prehrajto.cz/mala-velka-britanie-s03e02-cz-dabing/5c3db97917b40",
+          "status": "pending",
+          "filename": "S03E01.mp4",
+          "note": "May need manual verification - S03E01 link not found directly"
+        },
+        {
+          "episode": 2,
+          "title": "Episode 2",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s03e02-cz-dabing/5c3db97917b40",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s03e03-czdab/683cd51714e55",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s03e04-06-2005-cz-dab-epizoda-4/663abc811ead2",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Episode 5",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s03e05/654a9c9636d1b",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Episode 6",
+          "url": "https://prehrajto.cz/mala-velka-britanie-s03e06-06-2005-cz-dab-epizoda-6/663abdb18f8fc",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        }
+      ]
+    }
+  ],
+  "spinoffs": [
+    {
+      "name": "Little Britain Abroad",
+      "nameCz": "Malá Velká Británie v cizině",
+      "year": "2006",
+      "targetFolder": "Mala_Velka_Britanie_Abroad",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "url": "https://prehrajto.cz/mala-velka-britanie-v-cizine-s01e01-czdab/683cd537401c2",
+          "status": "downloaded",
+          "filename": "Abroad_E01.mp4",
+          "downloadedAt": "2025-12-06T21:27:06.126Z",
+          "fileSize": 190257293
+        }
+      ]
+    },
+    {
+      "name": "Little Britain USA",
+      "nameCz": "Malá Velká Británie v USA",
+      "year": "2008",
+      "targetFolder": "Mala_Velka_Britanie_USA",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Episode 1",
+          "url": "https://prehrajto.cz/mala-velka-britanie-v-usa-s01e01-czdab/683cd5479d74f",
+          "status": "downloaded",
+          "filename": "USA_S01E01.mp4",
+          "downloadedAt": "2025-12-06T21:29:18.462Z",
+          "fileSize": 573940602
+        },
+        {
+          "episode": 2,
+          "title": "Episode 2",
+          "url": "https://prehrajto.cz/mala-velka-britanie-v-usa-s01e02-06-2008-cz-dab-epizoda-2/663adc781ebc0",
+          "status": "downloaded",
+          "filename": "USA_S01E02.mp4",
+          "downloadedAt": "2025-12-06T21:29:57.094Z",
+          "fileSize": 140873009
+        },
+        {
+          "episode": 3,
+          "title": "Episode 3",
+          "url": "https://prehrajto.cz/mala-velka-britanie-v-usa-s01e03-czdab/683cd57f787d4",
+          "status": "downloaded",
+          "filename": "USA_S01E03.mp4",
+          "downloadedAt": "2025-12-06T21:31:40.229Z",
+          "fileSize": 557601903
+        },
+        {
+          "episode": 4,
+          "title": "Episode 4",
+          "url": "https://prehrajto.cz/mala-velka-britanie-v-usa-s01e04-06-2008-cz-dab-epizoda-4/663add0954934",
+          "status": "downloaded",
+          "filename": "USA_S01E04.mp4",
+          "downloadedAt": "2025-12-06T21:32:13.732Z",
+          "fileSize": 129513485
+        },
+        {
+          "episode": 5,
+          "title": "Episode 5",
+          "url": "https://prehrajto.cz/mala-velka-britanie-v-usa-s01e05-czdab/683cd5a9767ad",
+          "status": "downloaded",
+          "filename": "USA_S01E05.mp4",
+          "downloadedAt": "2025-12-06T21:34:05.037Z",
+          "fileSize": 589147650
+        },
+        {
+          "episode": 6,
+          "title": "Episode 6",
+          "url": "https://prehrajto.cz/mala-velka-britanie-v-usa-s01e06-06-2008-cz-dab-epizoda-6/663addac6c8a8",
+          "status": "downloaded",
+          "filename": "USA_S01E06.mp4",
+          "downloadedAt": "2025-12-06T21:34:40.904Z",
+          "fileSize": 120047577
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 29,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 29
+  }
+}
