@@ -1,0 +1,761 @@
+{
+  "showName": "Reddwarf",
+  "showNameCz": "Reddwarf",
+  "year": "",
+  "description": "Scraped from http://reddwarf.nikee.net",
+  "targetFolder": "reddwarf",
+  "source": "nahnoji.cz",
+  "originalSource": "http://reddwarf.nikee.net",
+  "seasons": [
+    {
+      "season": 1,
+      "title": "Season 1",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Konec",
+          "url": "http://nahnoji.cz/video?id=11233",
+          "videoId": "11233",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=5",
+          "status": "pending",
+          "filename": "S01E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Ozvěny budoucnosti",
+          "url": "http://nahnoji.cz/video?id=11234",
+          "videoId": "11234",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=6",
+          "status": "pending",
+          "filename": "S01E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Rovnováha sil",
+          "url": "http://nahnoji.cz/video?id=11235",
+          "videoId": "11235",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=7",
+          "status": "pending",
+          "filename": "S01E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Čekání na boha",
+          "url": "http://nahnoji.cz/video?id=11236",
+          "videoId": "11236",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=8",
+          "status": "pending",
+          "filename": "S01E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Sebevědomí a mindrák",
+          "url": "http://nahnoji.cz/video?id=11237",
+          "videoId": "11237",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=9",
+          "status": "pending",
+          "filename": "S01E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Já na druhou",
+          "url": "http://nahnoji.cz/video?id=11238",
+          "videoId": "11238",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=10",
+          "status": "pending",
+          "filename": "S01E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 2,
+      "title": "Season 2",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Kryton",
+          "url": "http://nahnoji.cz/video?id=7604",
+          "videoId": "7604",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=11",
+          "status": "pending",
+          "filename": "S02E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Lepší než život",
+          "url": "http://nahnoji.cz/video?id=7605",
+          "videoId": "7605",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=12",
+          "status": "pending",
+          "filename": "S02E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Díky za tu vzpomínku",
+          "url": "http://nahnoji.cz/video?id=7606",
+          "videoId": "7606",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=13",
+          "status": "pending",
+          "filename": "S02E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Škvíra ve stázi",
+          "url": "http://nahnoji.cz/video?id=7607",
+          "videoId": "7607",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=14",
+          "status": "pending",
+          "filename": "S02E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Queeg",
+          "url": "http://nahnoji.cz/video?id=7608",
+          "videoId": "7608",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=15",
+          "status": "pending",
+          "filename": "S02E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Paralelní vesmír",
+          "url": "http://nahnoji.cz/video?id=7609",
+          "videoId": "7609",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=16",
+          "status": "pending",
+          "filename": "S02E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 3,
+      "title": "Season 3",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pozpátku",
+          "url": "http://nahnoji.cz/video?id=7612",
+          "videoId": "7612",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=17",
+          "status": "pending",
+          "filename": "S03E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Trosečníci",
+          "url": "http://nahnoji.cz/video?id=7613",
+          "videoId": "7613",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=18",
+          "status": "pending",
+          "filename": "S03E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Polymorf",
+          "url": "http://nahnoji.cz/video?id=7614",
+          "videoId": "7614",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=19",
+          "status": "pending",
+          "filename": "S03E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Výměna těl",
+          "url": "http://nahnoji.cz/video?id=7615",
+          "videoId": "7615",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=20",
+          "status": "pending",
+          "filename": "S03E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Fotostroj času",
+          "url": "http://nahnoji.cz/video?id=7616",
+          "videoId": "7616",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=21",
+          "status": "pending",
+          "filename": "S03E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Poslední den",
+          "url": "http://nahnoji.cz/video?id=7617",
+          "videoId": "7617",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=22",
+          "status": "pending",
+          "filename": "S03E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 4,
+      "title": "Season 4",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Kamila",
+          "url": "http://nahnoji.cz/video?id=14146",
+          "videoId": "14146",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=23",
+          "status": "pending",
+          "filename": "S04E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "D.N.A",
+          "url": "http://nahnoji.cz/video?id=14147",
+          "videoId": "14147",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=24",
+          "status": "pending",
+          "filename": "S04E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Spravedlnost",
+          "url": "http://nahnoji.cz/video?id=14148",
+          "videoId": "14148",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=25",
+          "status": "pending",
+          "filename": "S04E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Bílá díra",
+          "url": "http://nahnoji.cz/video?id=14149",
+          "videoId": "14149",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=26",
+          "status": "pending",
+          "filename": "S04E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Jiná dimenze",
+          "url": "http://nahnoji.cz/video?id=14150",
+          "videoId": "14150",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=27",
+          "status": "pending",
+          "filename": "S04E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Roztavení",
+          "url": "http://nahnoji.cz/video?id=14151",
+          "videoId": "14151",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=28",
+          "status": "pending",
+          "filename": "S04E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 5,
+      "title": "Season 5",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Hololoď",
+          "url": "http://nahnoji.cz/video?id=5912",
+          "videoId": "5912",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=29",
+          "status": "pending",
+          "filename": "S05E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Inkvizitor",
+          "url": "http://nahnoji.cz/video?id=5913",
+          "videoId": "5913",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=30",
+          "status": "pending",
+          "filename": "S05E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Psychoteror",
+          "url": "http://nahnoji.cz/video?id=5914",
+          "videoId": "5914",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=31",
+          "status": "pending",
+          "filename": "S05E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Karanténa",
+          "url": "http://nahnoji.cz/video?id=5915",
+          "videoId": "5915",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=32",
+          "status": "pending",
+          "filename": "S05E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Démoni a andělé",
+          "url": "http://nahnoji.cz/video?id=5916",
+          "videoId": "5916",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=33",
+          "status": "pending",
+          "filename": "S05E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Návrat do reality",
+          "url": "http://nahnoji.cz/video?id=5907",
+          "videoId": "5907",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=34",
+          "status": "pending",
+          "filename": "S05E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 6,
+      "title": "Season 6",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Psirény",
+          "url": "http://nahnoji.cz/video?id=14160",
+          "videoId": "14160",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=35",
+          "status": "pending",
+          "filename": "S06E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Legie",
+          "url": "http://nahnoji.cz/video?id=14058",
+          "videoId": "14058",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=36",
+          "status": "pending",
+          "filename": "S06E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Pistolníci z Apokalypsy",
+          "url": "http://nahnoji.cz/video?id=14161",
+          "videoId": "14161",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=37",
+          "status": "pending",
+          "filename": "S06E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Polymorf II - Emocuc",
+          "url": "http://nahnoji.cz/video?id=14162",
+          "videoId": "14162",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=38",
+          "status": "pending",
+          "filename": "S06E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Rimmerosvět",
+          "url": "http://nahnoji.cz/video?id=14163",
+          "videoId": "14163",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=39",
+          "status": "pending",
+          "filename": "S06E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Mimo realitu",
+          "url": "http://nahnoji.cz/video?id=14164",
+          "videoId": "14164",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=40",
+          "status": "pending",
+          "filename": "S06E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 7,
+      "title": "Season 7",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Pekelně ostrý výlet",
+          "url": "http://nahnoji.cz/video?id=14152",
+          "videoId": "14152",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=41",
+          "status": "pending",
+          "filename": "S07E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Nachystejte květináče",
+          "url": "http://nahnoji.cz/video?id=14153",
+          "videoId": "14153",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=42",
+          "status": "pending",
+          "filename": "S07E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Uroboros",
+          "url": "http://nahnoji.cz/video?id=14154",
+          "videoId": "14154",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=43",
+          "status": "pending",
+          "filename": "S07E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Zkouška kanálem",
+          "url": "http://nahnoji.cz/video?id=14155",
+          "videoId": "14155",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=44",
+          "status": "pending",
+          "filename": "S07E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Stesk",
+          "url": "http://nahnoji.cz/video?id=14156",
+          "videoId": "14156",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=45",
+          "status": "pending",
+          "filename": "S07E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Žádná legrace",
+          "url": "http://nahnoji.cz/video?id=14157",
+          "videoId": "14157",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=46",
+          "status": "pending",
+          "filename": "S07E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Epidém",
+          "url": "http://nahnoji.cz/video?id=14158",
+          "videoId": "14158",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=47",
+          "status": "pending",
+          "filename": "S07E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Nanarchie",
+          "url": "http://nahnoji.cz/video?id=14159",
+          "videoId": "14159",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=48",
+          "status": "pending",
+          "filename": "S07E08.mp4"
+        }
+      ]
+    },
+    {
+      "season": 8,
+      "title": "Season 8",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Zpátky v červeném 1",
+          "url": "http://nahnoji.cz/video?id=5819",
+          "videoId": "5819",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=49",
+          "status": "pending",
+          "filename": "S08E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Zpátky v červeném 2",
+          "url": "http://nahnoji.cz/video?id=5820",
+          "videoId": "5820",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=50",
+          "status": "pending",
+          "filename": "S08E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Zpátky v červeném 3",
+          "url": "http://nahnoji.cz/video?id=5821",
+          "videoId": "5821",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=51",
+          "status": "pending",
+          "filename": "S08E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Kassandra",
+          "url": "http://nahnoji.cz/video?id=5822",
+          "videoId": "5822",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=52",
+          "status": "pending",
+          "filename": "S08E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Televize Kryton",
+          "url": "http://nahnoji.cz/video?id=5823",
+          "videoId": "5823",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=53",
+          "status": "pending",
+          "filename": "S08E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Pete 1",
+          "url": "http://nahnoji.cz/video?id=5824",
+          "videoId": "5824",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=54",
+          "status": "pending",
+          "filename": "S08E06.mp4"
+        },
+        {
+          "episode": 7,
+          "title": "Pete 2",
+          "url": "http://nahnoji.cz/video?id=5825",
+          "videoId": "5825",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=55",
+          "status": "pending",
+          "filename": "S08E07.mp4"
+        },
+        {
+          "episode": 8,
+          "title": "Jenom sympaťáci",
+          "url": "http://nahnoji.cz/video?id=5826",
+          "videoId": "5826",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=56",
+          "status": "pending",
+          "filename": "S08E08.mp4"
+        }
+      ]
+    },
+    {
+      "season": 9,
+      "title": "Season 9",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Zpátky na Zemi 1",
+          "url": "http://nahnoji.cz/video?id=7644",
+          "videoId": "7644",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=57",
+          "status": "pending",
+          "filename": "S09E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Zpátky na Zemi 2",
+          "url": "http://nahnoji.cz/video?id=7645",
+          "videoId": "7645",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=58",
+          "status": "pending",
+          "filename": "S09E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Zpátky na Zemi 3",
+          "url": "http://nahnoji.cz/video?id=7646",
+          "videoId": "7646",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=59",
+          "status": "pending",
+          "filename": "S09E03.mp4"
+        }
+      ]
+    },
+    {
+      "season": 10,
+      "title": "Season 10",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Trojan",
+          "url": "http://nahnoji.cz/video?id=7647",
+          "videoId": "7647",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=60",
+          "status": "pending",
+          "filename": "S10E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Otcové a synové",
+          "url": "http://nahnoji.cz/video?id=7648",
+          "videoId": "7648",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=61",
+          "status": "pending",
+          "filename": "S10E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Citróny",
+          "url": "http://nahnoji.cz/video?id=7649",
+          "videoId": "7649",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=62",
+          "status": "pending",
+          "filename": "S10E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Zapletení",
+          "url": "http://nahnoji.cz/video?id=7650",
+          "videoId": "7650",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=63",
+          "status": "pending",
+          "filename": "S10E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Milý Dave",
+          "url": "http://nahnoji.cz/video?id=7651",
+          "videoId": "7651",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=64",
+          "status": "pending",
+          "filename": "S10E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Začátek",
+          "url": "http://nahnoji.cz/video?id=7652",
+          "videoId": "7652",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=65",
+          "status": "pending",
+          "filename": "S10E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 11,
+      "title": "Season 11",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Zlatý Dvacátý",
+          "url": "http://nahnoji.cz/video?id=12948",
+          "videoId": "12948",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=66",
+          "status": "pending",
+          "filename": "S11E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Samsára",
+          "url": "http://nahnoji.cz/video?id=12949",
+          "videoId": "12949",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=67",
+          "status": "pending",
+          "filename": "S11E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Dávat a brát",
+          "url": "http://nahnoji.cz/video?id=12950",
+          "videoId": "12950",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=68",
+          "status": "pending",
+          "filename": "S11E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Důstojník Rimmer",
+          "url": "http://nahnoji.cz/video?id=12951",
+          "videoId": "12951",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=69",
+          "status": "pending",
+          "filename": "S11E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "Kryze",
+          "url": "http://nahnoji.cz/video?id=12952",
+          "videoId": "12952",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=70",
+          "status": "pending",
+          "filename": "S11E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Džin z lahve",
+          "url": "http://nahnoji.cz/video?id=12953",
+          "videoId": "12953",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=71",
+          "status": "pending",
+          "filename": "S11E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 12,
+      "title": "Season 12",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Vyléčení",
+          "url": "http://nahnoji.cz/video?id=15613",
+          "videoId": "15613",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=72",
+          "status": "pending",
+          "filename": "S12E01.mp4"
+        },
+        {
+          "episode": 2,
+          "title": "Silikonie",
+          "url": "http://nahnoji.cz/video?id=13248",
+          "videoId": "13248",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=73",
+          "status": "pending",
+          "filename": "S12E02.mp4"
+        },
+        {
+          "episode": 3,
+          "title": "Časová vlna",
+          "url": "http://nahnoji.cz/video?id=15614",
+          "videoId": "15614",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=74",
+          "status": "pending",
+          "filename": "S12E03.mp4"
+        },
+        {
+          "episode": 4,
+          "title": "Robokracie",
+          "url": "http://nahnoji.cz/video?id=15615",
+          "videoId": "15615",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=75",
+          "status": "pending",
+          "filename": "S12E04.mp4"
+        },
+        {
+          "episode": 5,
+          "title": "M-Corp",
+          "url": "http://nahnoji.cz/video?id=13251",
+          "videoId": "13251",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=76",
+          "status": "pending",
+          "filename": "S12E05.mp4"
+        },
+        {
+          "episode": 6,
+          "title": "Skokan",
+          "url": "http://nahnoji.cz/video?id=15616",
+          "videoId": "15616",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=77",
+          "status": "pending",
+          "filename": "S12E06.mp4"
+        }
+      ]
+    },
+    {
+      "season": 13,
+      "title": "Season 13",
+      "episodes": [
+        {
+          "episode": 1,
+          "title": "Země zaslíbená",
+          "url": "http://nahnoji.cz/video?id=18896",
+          "videoId": "18896",
+          "originalUrl": "http://reddwarf.nikee.net/index.php?video=78",
+          "status": "pending",
+          "filename": "S13E01.mp4"
+        }
+      ]
+    }
+  ],
+  "stats": {
+    "totalEpisodes": 74,
+    "downloaded": 0,
+    "failed": 0,
+    "pending": 74
+  }
+}

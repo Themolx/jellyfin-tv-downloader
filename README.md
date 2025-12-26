@@ -12,28 +12,25 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/shows-22-blue?style=flat-square" alt="Shows">
-  <img src="https://img.shields.io/badge/episodes-2,072-green?style=flat-square" alt="Episodes">
-  <img src="https://img.shields.io/badge/size-~300GB-orange?style=flat-square" alt="Size">
+  <img src="https://img.shields.io/badge/shows-24-blue?style=flat-square" alt="Shows">
+  <img src="https://img.shields.io/badge/episodes-2,381-green?style=flat-square" alt="Episodes">
+  <img src="https://img.shields.io/badge/size-~350GB-orange?style=flat-square" alt="Size">
   <img src="https://img.shields.io/badge/node-18+-brightgreen?style=flat-square" alt="Node">
 </p>
 
 ---
 
-## 📺 What's Inside
+## 📺 What You Get
 
-| 🎭 Show | 📊 Episodes |
-|---------|-------------|
-| **Simpsonovi** | 523 |
-| **South Park** | 280 |
-| **Dva a půl chlapa** | 200 |
-| **Big Bang Theory** | 169 |
-| **Futurama** | 140 |
-| **Malý Sheldon** | 127 |
-| **Family Guy** | 88 |
-| **Haló, haló!** | 85 |
-| **Rick & Morty** | 71 |
-| *+ 13 more shows...* | |
+**24 shows, 2,381 episodes** including:
+- Simpsonovi (523 eps)
+- South Park (280 eps)
+- **Přátelé / Friends** (235 eps) 🆕
+- Dva a půl chlapa (200 eps)
+- Big Bang Theory (169 eps)
+- Futurama (140 eps)
+- **Red Dwarf** (74 eps) 🆕
+- Rick & Morty, Family Guy, Comeback + 14 more!
 
 ---
 
@@ -159,24 +156,24 @@ node reset-all.js
 
 ---
 
-## 📝 Adding New Shows
+## 🕷️ Add More Shows (Crawler)
 
-Create a JSON file in `shows/`:
+Want more shows? Use the included crawler:
 
-```json
-{
-  "showName": "My Show",
-  "source": "nahnoji.cz",
-  "seasons": [{
-    "season": 1,
-    "episodes": [{
-      "episode": 1,
-      "title": "Episode Title",
-      "url": "http://nahnoji.cz/video?id=XXX",
-      "status": "pending"
-    }]
-  }]
-}
+```bash
+# Crawl any nikee.net / alyss.cz / sifee.biz site
+node crawlers/scan-nikee.js http://SHOWNAME.nikee.net
+
+# Examples:
+node crawlers/scan-nikee.js http://scrubs.nikee.net
+node crawlers/scan-nikee.js http://mash.alyss.cz
+node crawlers/scan-nikee.js http://chuck.sifee.biz
+```
+
+The crawler automatically:
+- 🔍 Discovers all seasons and episodes
+- 🔗 Extracts nahnoji.cz video IDs
+- 📁 Creates a ready-to-use queue file in `shows/`
 ```
 
 ---
