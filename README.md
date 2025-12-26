@@ -1,128 +1,191 @@
-# 🎬 Jellyfin TV Downloader
+<p align="center">
+  <img src="assets/chumper_hue_0.png" width="80" alt="Chumper Red">
+  <img src="assets/chumper_hue_120.png" width="80" alt="Chumper Green">
+  <img src="assets/chumper_hue_240.png" width="80" alt="Chumper Blue">
+</p>
 
-Download **all Czech-dubbed TV shows** from nahnoji.cz and prehrajto.cz, automatically organized for [Jellyfin](https://jellyfin.org/).
+<h1 align="center">🎬 Jellyfin TV Downloader</h1>
 
-## 📺 What You Get
+<p align="center">
+  <strong>Download all Czech-dubbed TV shows for your Jellyfin server</strong><br>
+  <em>nahnoji.cz • prehrajto.cz → Jellyfin-ready</em>
+</p>
 
-**22 shows, 2,072 episodes** including:
-- South Park (280 eps)
-- Simpsonovi (523 eps) 
-- Big Bang Theory (169 eps)
-- Futurama (140 eps)
-- Rick & Morty (71 eps)
-- Family Guy, Comeback, House, and 15 more!
+<p align="center">
+  <img src="https://img.shields.io/badge/shows-22-blue?style=flat-square" alt="Shows">
+  <img src="https://img.shields.io/badge/episodes-2,072-green?style=flat-square" alt="Episodes">
+  <img src="https://img.shields.io/badge/size-~300GB-orange?style=flat-square" alt="Size">
+  <img src="https://img.shields.io/badge/node-18+-brightgreen?style=flat-square" alt="Node">
+</p>
+
+---
+
+## 📺 What's Inside
+
+| 🎭 Show | 📊 Episodes |
+|---------|-------------|
+| **Simpsonovi** | 523 |
+| **South Park** | 280 |
+| **Dva a půl chlapa** | 200 |
+| **Big Bang Theory** | 169 |
+| **Futurama** | 140 |
+| **Malý Sheldon** | 127 |
+| **Family Guy** | 88 |
+| **Haló, haló!** | 85 |
+| **Rick & Morty** | 71 |
+| *+ 13 more shows...* | |
+
+---
 
 ## 🚀 Quick Start
 
 ```bash
-# 1. Setup (one time)
+# Clone the repo
+git clone https://github.com/Themolx/jellyfin-tv-downloader.git
+cd jellyfin-tv-downloader
+
+# Setup (one time)
 chmod +x setup.sh && ./setup.sh
 
-# 2. Download EVERYTHING
-node tv-downloader.js --all --output /path/to/your/jellyfin/TVShows
+# Download EVERYTHING 🔥
+node tv-downloader.js --all --output /path/to/jellyfin/TVShows
 ```
 
-That's it! ☕ Grab a coffee, this will take a while (~300GB).
+> ☕ Grab a coffee (or three). This downloads ~300GB of pure nostalgia.
 
-## 💻 More Commands
+---
+
+## 💻 Commands
+
+| Command | Description |
+|---------|-------------|
+| `--list` | 📋 Show all available shows |
+| `--status` | 📊 Show download progress |
+| `--all` | 📥 Download everything |
+| `--show <name>` | 🎯 Download specific show |
+| `--output <path>` | 📁 Set output directory |
+| `--dry-run` | 👀 Preview without downloading |
+| `--limit <n>` | ⏱️ Limit episodes to download |
+
+### Examples
 
 ```bash
 # See what's available
 node tv-downloader.js --list
 
-# Check progress
+# Download just South Park
+node tv-downloader.js --show south-park --output ~/Movies
+
+# Check your progress
 node tv-downloader.js --status
 
-# Download just one show
-node tv-downloader.js --show south-park --output ~/Movies/TVShows
-
-# Preview without downloading
-node tv-downloader.js --dry-run --all
+# Preview what would download
+node tv-downloader.js --all --dry-run
 ```
 
-# Download all shows
-node tv-downloader.js --all --output ~/Movies/TVShows
+---
 
-# Preview without downloading
-node tv-downloader.js --show simpsonovi --dry-run
-
-# Limit number of episodes
-node tv-downloader.js --show south-park --limit 5
-```
-
-## 📁 Jellyfin-Compatible Output
+## 📁 Jellyfin-Ready Output
 
 Files are automatically organized for Jellyfin:
 
 ```
 TVShows/
-├── South Park/
-│   ├── Season 01/
-│   │   ├── South Park - S01E01 - Cartman dostava analni sondu.mp4
-│   │   ├── South Park - S01E02 - Posilovac 4000.mp4
+├── 📂 South Park/
+│   ├── 📂 Season 01/
+│   │   ├── 🎬 South Park - S01E01 - Cartman dostava analni sondu.mp4
+│   │   ├── 🎬 South Park - S01E02 - Posilovac 4000.mp4
 │   │   └── ...
-│   └── Season 02/
-│       └── ...
-├── Simpsonovi/
-│   └── ...
+│   └── 📂 Season 02/
+└── 📂 Simpsonovi/
+    └── ...
 ```
 
-Just point Jellyfin to your output directory and it will auto-detect everything!
+Just point Jellyfin to your output folder and **boom** — instant library! 🎉
 
-## 📋 Requirements
+---
 
-- Node.js 18+
-- macOS, Linux, or Windows (with WSL)
-- ~500MB for Chromium browser
+## 🛠️ Requirements
 
-## ⚙️ How It Works
+- **Node.js 18+**
+- **~500MB** for Chromium browser
+- **~300GB** disk space (for all shows)
+- **Patience** ⏳
 
-1. Uses Playwright to open video pages in a headless browser
-2. Extracts the video stream URL from the page
-3. Downloads using `curl` with proper headers
-4. Organizes files for Jellyfin
+---
 
-## 🔧 Troubleshooting
+## ❓ Troubleshooting
 
-**Browser issues?**
+<details>
+<summary><strong>Browser not working?</strong></summary>
+
 ```bash
 npx playwright install chromium
 ```
+</details>
 
-**Show not downloading?**
-- Check if the source site is up
-- Try running with `--limit 1` to test one episode
-- Videos may have been removed from the source
+<details>
+<summary><strong>Downloads failing?</strong></summary>
 
-**Slow downloads?**
-- Use `--limit 3` to download fewer at once
-- Downloads use parallel streams (3 by default)
+- Check if source site is up
+- Try `--limit 1` to test one episode
+- Videos may have been removed from source
+</details>
+
+<details>
+<summary><strong>Want to re-download everything?</strong></summary>
+
+```bash
+node reset-all.js
+```
+</details>
+
+---
+
+## 🎨 How It Works
+
+```
+┌─────────────┐     ┌─────────────┐     ┌─────────────┐
+│  nahnoji.cz │────▶│  Playwright │────▶│    curl     │
+│ prehrajto   │     │  (extract)  │     │ (download)  │
+└─────────────┘     └─────────────┘     └─────────────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │  Jellyfin-  │
+                    │  ready MP4s │
+                    └─────────────┘
+```
+
+---
 
 ## 📝 Adding New Shows
 
-1. Create a JSON file in `shows/` folder
-2. Follow the format of existing files:
+Create a JSON file in `shows/`:
 
 ```json
 {
   "showName": "My Show",
   "source": "nahnoji.cz",
-  "seasons": [
-    {
-      "season": 1,
-      "episodes": [
-        {
-          "episode": 1,
-          "title": "Episode Title",
-          "url": "http://nahnoji.cz/video?id=XXX",
-          "status": "pending"
-        }
-      ]
-    }
-  ]
+  "seasons": [{
+    "season": 1,
+    "episodes": [{
+      "episode": 1,
+      "title": "Episode Title",
+      "url": "http://nahnoji.cz/video?id=XXX",
+      "status": "pending"
+    }]
+  }]
 }
 ```
 
 ---
 
-Made with ❤️ for archiving Czech-dubbed TV classics
+<p align="center">
+  <img src="assets/chumper_hue_0.png" width="50" alt="Chumper">
+</p>
+
+<p align="center">
+  Made with ❤️ for archiving Czech TV classics<br>
+  <em><!-- Karel was here 🐸 --></em>
+</p>
